@@ -2,7 +2,7 @@
 
 # Weerasekara Mudiyanselage Pasan Hansaka Weerasekara.
 
-![Profile Picture](profile.jpg)
+![Profile Picture](./images/profile.jpg)
 
 👋 Greetings! I'm Pasan Hansaka, a 20-year-old undergraduate student at the Java Institute currently pursuing a degree in Software Engineering. I am on the exciting path to graduation from Birmingham City University, where I am honing my skills and knowledge in the dynamic field of software development. My academic journey is not just about earning a degree; it's a continuous exploration of the intricacies of software engineering. I am deeply passionate about leveraging technology to solve real-world problems and thrive on the challenges that come with it. As I navigate through my studies, I am eager to apply my theoretical knowledge to practical scenarios and contribute meaningfully to the ever-evolving world of software development. Join me on this journey of learning and innovation!😎
 
@@ -24,19 +24,19 @@
 
 ## Skills
 
-  ![Profile Picture](html.png)
+  ![Profile Picture](./images/html.png)
 
   ![Profile Picture](./images/css.png)
 
-  ![Profile Picture](js.png)
+  ![Profile Picture](./images/js.png)
 
-  ![Profile Picture](java.png)
+  ![Profile Picture](./images/java.png)
 
-  ![Profile Picture](mysql.png)
+  ![Profile Picture](./images/mysql.png)
 
-  ![Profile Picture](react.png)
+  ![Profile Picture](./images/react.png)
 
-  ![Profile Picture](php.png)
+  ![Profile Picture](./images/php.png)
 
 ## Projects
 
