@@ -26,7 +26,7 @@
 
   ![Profile Picture](html.png)
 
-  ![Profile Picture](css.png)
+  ![Profile Picture](./images/css.png)
 
   ![Profile Picture](js.png)
 
