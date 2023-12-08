@@ -24,15 +24,18 @@
 
 ## Skills
 
-  HTML  CSS  JAVASCRIPT  JAVA  MYSQL  REACT NATIVE  PHP
-
   ![Profile Picture](html.png)
+
   ![Profile Picture](css.png)
+
   ![Profile Picture](js.png)
+
   ![Profile Picture](java.png)
 
   ![Profile Picture](mysql.png)
+
   ![Profile Picture](react.png)
+  
   ![Profile Picture](php.png)
 
 ## Projects
