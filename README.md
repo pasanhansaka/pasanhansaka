@@ -24,7 +24,7 @@
 
 ## Skills
 
-  HTML
+  HTML![Profile Picture](html.png)
   CSS
   JAVASCRIPT
   JAVA
