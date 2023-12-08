@@ -35,7 +35,7 @@
   ![Profile Picture](mysql.png)
 
   ![Profile Picture](react.png)
-  
+
   ![Profile Picture](php.png)
 
 ## Projects
@@ -44,7 +44,7 @@ Have Long Way to go....😊
 
 ## Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/pasan-hansaka-114341257)
+- [LinkedIn](https://www.linkedin.com/in/pasan-hansaka-114341257/)
 - [Twitter](https://twitter.com/pasanhansaka26)
 - [Facebook](https://www.facebook.com/pasan.hansaka.71?mibextid=308UXlBs9A8XJry9)
 - [Instagram](https://instagram.com/pasan_hansaka?igshid=OGY3MTU3OGY1Mw==)
