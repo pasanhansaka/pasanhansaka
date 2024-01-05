@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Weerasekara Mudiyanselage Pasan Hansaka Weerasekara.
+# I'm Pasan Hansaka.
 
 ![Profile Picture](./images/profile.jpg)
 
