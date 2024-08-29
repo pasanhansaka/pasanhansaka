@@ -46,5 +46,5 @@ Have Long Way to go....😊
 
 - [LinkedIn](https://www.linkedin.com/in/pasan-hansaka-114341257/)
 - [Twitter](https://twitter.com/pasanhansaka26)
-- [Facebook](https://www.facebook.com/pasan.hansaka.71?mibextid=308UXlBs9A8XJry9)
+- [Facebook](https://www.facebook.com/pasanhansaka26/)
 - [Instagram](https://instagram.com/pasan_hansaka?igshid=OGY3MTU3OGY1Mw==)
