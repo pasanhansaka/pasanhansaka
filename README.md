@@ -2,7 +2,6 @@
 
 # I'm Pasan Hansaka.
 
-![Profile Picture](./images/profile.jpg)
 
 👋 Greetings! I'm Pasan Hansaka, a 20-year-old undergraduate student at the Java Institute currently pursuing a degree in Software Engineering. I am on the exciting path to graduation from Birmingham City University, where I am honing my skills and knowledge in the dynamic field of software development. My academic journey is not just about earning a degree; it's a continuous exploration of the intricacies of software engineering. I am deeply passionate about leveraging technology to solve real-world problems and thrive on the challenges that come with it. As I navigate through my studies, I am eager to apply my theoretical knowledge to practical scenarios and contribute meaningfully to the ever-evolving world of software development. Join me on this journey of learning and innovation!😎
 
