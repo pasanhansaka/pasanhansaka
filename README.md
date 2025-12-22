@@ -1,49 +1,24 @@
-### Hi there 👋
 
-# I'm Pasan Hansaka.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pasanhansaka26) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pasanhansaka26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pasan-hansaka) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@pasanhansaka26) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@pasanhansaka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pasanhansaka31@gmail.com) 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pasanhansaka&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pasanhansaka&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pasanhansaka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-👋 Greetings! I'm Pasan Hansaka, a 20-year-old undergraduate student at the Java Institute currently pursuing a degree in Software Engineering. I am on the exciting path to graduation from Birmingham City University, where I am honing my skills and knowledge in the dynamic field of software development. My academic journey is not just about earning a degree; it's a continuous exploration of the intricacies of software engineering. I am deeply passionate about leveraging technology to solve real-world problems and thrive on the challenges that come with it. As I navigate through my studies, I am eager to apply my theoretical knowledge to practical scenarios and contribute meaningfully to the ever-evolving world of software development. Join me on this journey of learning and innovation!😎
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pasanhansaka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 I’m currently working on Developing my self as a fine Developer.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🌱 I’m currently learning Software Engineering.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pasanhansaka&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 👯 I’m looking to collaborate on open source projects.
+---
+[![](https://visitcount.itsvg.in/api?id=pasanhansaka&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🤔 I’m looking for help with Software and Web Developments.
-
-- 💬 Ask me about HTML,CSS,JS,React Native,PHP,MYSQL,JAVA.
-
-- 📫 How to reach me: Please Go Down Below 😉.
-
-- 😄 Pronouns: Just Call me Pasan.
-
-- ⚡ Fun fact: Did you know that I once coded an entire project fueled by nothing but pizza and coffee? 🍕☕ It turns out, my best code is written during late-night coding sessions with a good dose of caffeine and a slice of my favorite pizza. The keyboard may have encountered a few crumbs along the way, but the code was as delicious as the combination itself! #CodeFuel #PizzaPowered #LateNightCoder".
-
-## Skills
-
-  ![Profile Picture](./images/html.png)
-
-  ![Profile Picture](./images/css.png)
-
-  ![Profile Picture](./images/js.png)
-
-  ![Profile Picture](./images/java.png)
-
-  ![Profile Picture](./images/mysql.png)
-
-  ![Profile Picture](./images/react.png)
-
-  ![Profile Picture](./images/php.png)
-
-## Projects
-
-Have Long Way to go....😊
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/pasan-hansaka-114341257/)
-- [Twitter](https://twitter.com/pasanhansaka26)
-- [Facebook](https://www.facebook.com/pasanhansaka26/)
-- [Instagram](https://instagram.com/pasan_hansaka?igshid=OGY3MTU3OGY1Mw==)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
