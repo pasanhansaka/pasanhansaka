@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Pasan Hansaka
 ======================================================================================================================================
 
-Software Engineer, Web Developer, Ui/Ux Designer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=time&weight=900&pause=1000&color=C2CD0C&background=FF000000&vCenter=true&random=true&width=435&lines=i'm+a+Software+Engineer;i'm+a+Web+Developer;i'm+a+UI%2FUX+Designer)](https://git.io/typing-svg)
 ------------------------------------------------
 
 I am a passionate and dedicated software developer with strong experience in Java, Android application development, and backend systems. I enjoy building practical, real-world solutions that combine clean code, secure architecture, and efficient system design.
@@ -12,10 +12,10 @@ As the founder of Thorn Solutions, I focus on developing scalable applications, 
 
 I am a continuous learner who enjoys solving complex problems, exploring new technologies, and improving my skills through real projects and academic work. I believe in writing maintainable code and building systems that make a real impact.
 
-* 🌍  I'm based in Sri Lanka
+* 🌍  I'm based in Sri Lanka.
 * ✉️  You can contact me at [pasanhansaka31@gmail.com](mailto:pasanhansaka31@gmail.com)
-* 🧠  I'm currently learning Ui/Ux
-* 
+* 🧠  I'm currently learning & upgrading myself.
+  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pasanhansaka26) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pasanhansaka26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pasan-hansaka) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@pasanhansaka26) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@pasanhansaka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pasanhansaka31@gmail.com) 
 
@@ -40,8 +40,5 @@ I am a continuous learner who enjoys solving complex problems, exploring new tec
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
+<a href="https://www.buymeacoffee.com//pasanhansaka"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com//pasanhansaka"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
