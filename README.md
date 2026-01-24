@@ -65,5 +65,12 @@ I am a continuous learner who enjoys solving complex problems, exploring new tec
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com//pasanhansaka"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+<a href="https://www.buymeacoffee.com//pasanhansaka">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
+</a><br/>
+<a href="https://github.com/sponsors/pasanhansaka">
+  <img src="https://img.shields.io/badge/Sponsor-GitHub-%23EA4AAA?logo=github&style=for-the-badge" width="150" />
+</a>
+
+
 
