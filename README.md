@@ -22,9 +22,6 @@ I love building **real-world solutions** that combine 🧼 clean code, 🔐 secu
 🛠️ Hands-on experience with **Jakarta EE, EJB, Servlets, JSP, WebSockets, Firebase Firestore, REST APIs**, and 🔌 **embedded systems (ESP32)**.  
 I work comfortably as a **full-stack developer**, crafting 🎨 user-friendly interfaces and 🧠 reliable server-side logic.
 
-🚀 **Founder of Thorn Solutions**, focusing on 📈 scalable applications, 🤖 automation solutions, and 🔒 secure systems.  
-Special interests include 🛡️ **application security**, 🌐 **distributed systems**, and 🏢 **enterprise software**.
-
 📚 A continuous learner who enjoys solving 🧩 complex problems, exploring 🔍 new technologies, and building ✨ maintainable, impactful systems.
 
 - 🌍 Based in **Sri Lanka**
