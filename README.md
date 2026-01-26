@@ -6,13 +6,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=time&weight=900&pause=1000&color=C2CD0C&background=FF000000&vCenter=true&random=true&width=435&lines=i'm+a+Full+Stack+Software+Engineer;i'm+a+Web+Developer;i'm+a+UI%2FUX+Designer)](https://git.io/typing-svg)
 ------------------------------------------------
 
-I am a passionate and dedicated software developer with strong experience in Java, Android application development, and backend systems. I enjoy building practical, real-world solutions that combine clean code, secure architecture, and efficient system design.
+💡 Passionate & dedicated Software Developer with strong experience in ☕ Java, 🤖 Android app development, and ⚙️ backend systems. I enjoy building practical, real-world solutions that combine 🧼 clean code, 🔐 secure architecture, and ⚡ efficient system design.
 
-I have hands-on experience with Jakarta EE, EJB, Servlets, JSP, WebSockets, Firebase Firestore, REST APIs, and embedded systems such as ESP32. My work often involves full-stack development, where I design both user-friendly mobile interfaces and reliable server-side logic.
+🛠️ Hands-on experience with Jakarta EE, EJB, Servlets, JSP, WebSockets, Firebase Firestore, REST APIs, and 🔌 embedded systems like ESP32. I often work as a full-stack developer, designing 🎨 user-friendly mobile interfaces alongside 🧠 reliable server-side logic.
 
-As the founder of Thorn Solutions, I focus on developing scalable applications, automation solutions, and secure systems. I am especially interested in application security, distributed systems, and enterprise software development.
+🚀 Founder of Thorn Solutions, focused on developing 📈 scalable applications, 🤖 automation solutions, and 🔒 secure systems. I’m especially interested in 🛡️ application security, 🌐 distributed systems, and 🏢 enterprise software development.
 
-I am a continuous learner who enjoys solving complex problems, exploring new technologies, and improving my skills through real projects and academic work. I believe in writing maintainable code and building systems that make a real impact.
+📚 A continuous learner who enjoys solving 🧩 complex problems, exploring 🔍 new technologies, and improving skills through 🧪 real projects and 🎓 academic work. I believe in writing ✨ maintainable code and building systems that create real impact.
 
 * 🌍  I'm based in Sri Lanka.
 * ✉️  You can contact me at [pasanhansaka31@gmail.com](mailto:pasanhansaka31@gmail.com)
