@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=C2CD0C&center=true&vCenter=true&width=650&lines=I'm%20a%20Full%20Stack%20Software%20Engineer;I'm%20a%20UI%20%2F%20UX%20Designer;I'm%20a%20Web%20Developer;I'm%20a%20Graphic%20Designer;I'm%20a%20Video%20Editor" alt="Typing introduction" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=C2CD0C&center=true&vCenter=true&width=650&lines=I'm%20a%20Full%20Stack%20Software%20Engineer;I'm%20an%20UI%20%2F%20UX%20Designer;I'm%20a%20Web%20Developer;I'm%20a%20Graphic%20Designer;I'm%20a%20Video%20Editor" alt="Typing introduction" /> 
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%" />
