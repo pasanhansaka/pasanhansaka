@@ -1,78 +1,130 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px" />
+</p>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Pasan Hansaka
-======================================================================================================================================
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Pasan%20Hansaka&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&descSize=18&descAlignY=55"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=time&weight=900&pause=1000&color=C2CD0C&background=FF000000&vCenter=true&random=true&width=435&lines=i'm+a+Full+Stack+Software+Engineer;i'm+a+Web+Developer;i'm+a+UI%2FUX+Designer)](https://git.io/typing-svg)
-------------------------------------------------
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=C2CD0C&center=true&vCenter=true&width=650&lines=I'm%20a%20Full%20Stack%20Software%20Engineer;I'm%20a%20UI%20%2F%20UX%20Designer;I'm%20a%20Web%20Developer;I'm%20a%20Graphic%20Designer;I'm%20a%20Video%20Editor" alt="Typing introduction" /> 
+</p>
 
-💡 Passionate & dedicated Software Developer with strong experience in ☕ Java, 🤖 Android app development, and ⚙️ backend systems. I enjoy building practical, real-world solutions that combine 🧼 clean code, 🔐 secure architecture, and ⚡ efficient system design.
-
-🛠️ Hands-on experience with Jakarta EE, EJB, Servlets, JSP, WebSockets, Firebase Firestore, REST APIs, and 🔌 embedded systems like ESP32. I often work as a full-stack developer, designing 🎨 user-friendly mobile interfaces alongside 🧠 reliable server-side logic.
-
-🚀 Founder of Thorn Solutions, focused on developing 📈 scalable applications, 🤖 automation solutions, and 🔒 secure systems. I’m especially interested in 🛡️ application security, 🌐 distributed systems, and 🏢 enterprise software development.
-
-📚 A continuous learner who enjoys solving 🧩 complex problems, exploring 🔍 new technologies, and improving skills through 🧪 real projects and 🎓 academic work. I believe in writing ✨ maintainable code and building systems that create real impact.
-
-* 🌍  I'm based in Sri Lanka.
-* ✉️  You can contact me at [pasanhansaka31@gmail.com](mailto:pasanhansaka31@gmail.com)
-* 🧠  I'm currently learning & upgrading myself.
-  
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pasanhansaka26) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pasanhansaka26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pasan-hansaka) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@pasanhansaka26) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pasanhansaka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pasanhansaka31@gmail.com) 
-
-# 💻 Tech Stack:
- ### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### Backend & Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-### Mobile & Frontend
-![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo)
-
-### Tools & Design
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-
-### Other
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pasanhansaka&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pasanhansaka&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pasanhansaka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pasanhansaka&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Support Me
+## 📌 About Me
 
-<a href="https://www.buymeacoffee.com//pasanhansaka">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
-</a><br/>
-<a href="https://github.com/sponsors/pasanhansaka">
-  <img src="https://img.shields.io/badge/Sponsor-GitHub-%23EA4AAA?logo=github&style=for-the-badge" width="150" />
-</a>
+💡 Passionate & dedicated **Software Developer** with strong experience in **☕ Java**, **🤖 Android development**, and **⚙️ backend systems**.  
+I love building **real-world solutions** that combine 🧼 clean code, 🔐 secure architecture, and ⚡ efficient system design.
 
+🛠️ Hands-on experience with **Jakarta EE, EJB, Servlets, JSP, WebSockets, Firebase Firestore, REST APIs**, and 🔌 **embedded systems (ESP32)**.  
+I work comfortably as a **full-stack developer**, crafting 🎨 user-friendly interfaces and 🧠 reliable server-side logic.
 
+🚀 **Founder of Thorn Solutions**, focusing on 📈 scalable applications, 🤖 automation solutions, and 🔒 secure systems.  
+Special interests include 🛡️ **application security**, 🌐 **distributed systems**, and 🏢 **enterprise software**.
 
+📚 A continuous learner who enjoys solving 🧩 complex problems, exploring 🔍 new technologies, and building ✨ maintainable, impactful systems.
+
+- 🌍 Based in **Sri Lanka**
+- ✉️ Contact: **[pasanhansaka31@gmail.com](mailto:pasanhansaka31@gmail.com)**
+- 🧠 Always learning & upgrading myself
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://facebook.com/pasanhansaka26"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/pasanhansaka26"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/pasan-hansaka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/@pasanhansaka26"><img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white"/></a>
+  <a href="https://youtube.com/@pasanhansaka"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"/></a>
+  <a href="https://wa.me/940701769147"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"/></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙️ Backend & Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+
+### 📱 Mobile
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo)
+
+### 🧰 Tools & Design
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pasanhansaka&theme=dark&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pasanhansaka&theme=dark" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasanhansaka&layout=compact&theme=dark" />
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasanhansaka&theme=radical&radius=10"/>
+</p>
+
+<picture> 
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg"> 
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg"> 
+</picture>
+
+---
+
+## ☕ Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/pasanhansaka">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
+  </a>
+  <br/><br/>
+  <a href="https://github.com/sponsors/pasanhansaka">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub-EA4AAA?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pasanhansaka&label=Profile%20Views&color=00FFFF&style=flat-square"/>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
+</div>
