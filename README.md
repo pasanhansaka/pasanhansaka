@@ -16,18 +16,16 @@
 
 ## 📌 About Me
 
-💡 Passionate & dedicated **Software Developer** with strong experience in **☕ Java**, **🤖 Android development**, and **⚙️ backend systems**.  
-I love building **real-world solutions** that combine 🧼 clean code, 🔐 secure architecture, and ⚡ efficient system design.
+💡 I am a **Software Developer** focused on building high-performance, secure, and scalable digital solutions. I specialize in the **Java Ecosystem** and **Mobile Development**, with a unique edge in hardware integration.
 
-🛠️ Hands-on experience with **Jakarta EE, EJB, Servlets, JSP, WebSockets, Firebase Firestore, REST APIs**, and 🔌 **embedded systems (ESP32)**.  
-I work comfortably as a **full-stack developer**, crafting 🎨 user-friendly interfaces and 🧠 reliable server-side logic.
+* **🚀 Backend:** Expert in Jakarta EE, EJB, Servlets, and RESTful API architecture.
+* **📱 Mobile:** Building native-feel experiences with Android (Java) and React Native.
+* **🔌 Hardware:** Experienced in embedded systems and IoT using **ESP32**.
+* **🎨 Design:** Bridging the gap between complex logic and user-centric UI/UX.
 
-📚 A continuous learner who enjoys solving 🧩 complex problems, exploring 🔍 new technologies, and building ✨ maintainable, impactful systems.
-
-- 🌍 Based in **Sri Lanka**
+- 🌍 Based in **Sri Lanka** 🇱🇰
 - ✉️ Contact: **[pasanhansaka31@gmail.com](mailto:pasanhansaka31@gmail.com)**
-- 🧠 Always learning & upgrading myself
-
+- 🧠 Currently exploring advanced cloud architectures and system design.
 ---
 
 ## 🌐 Connect With Me
@@ -76,11 +74,12 @@ I work comfortably as a **full-stack developer**, crafting 🎨 user-friendly in
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pasanhansaka&theme=dark&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pasanhansaka&theme=dark" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasanhansaka&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pasanhansaka&theme=radical&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasanhansaka&theme=radical&layout=compact&hide_border=true" width="41%" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pasanhansaka&theme=radical&hide_border=true" width="90%" />
 </p>
 
 ---
