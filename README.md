@@ -97,7 +97,6 @@
   <br/>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/space-shooter-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/space-shooter-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
