@@ -97,8 +97,6 @@
           srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)"
           srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man Contribution Graph"
-       src="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/pacman-contribution-graph.svg">
 </picture>
 
 <br/>
@@ -109,8 +107,6 @@
           srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/space-shooter-graph-dark.svg">
   <source media="(prefers-color-scheme: light)"
           srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/space-shooter-graph.svg">
-  <img alt="Space Shooter Contribution Graph"
-       src="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/space-shooter-graph.svg">
 </picture>
 
 
