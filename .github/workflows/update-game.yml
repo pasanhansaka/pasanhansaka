@@ -1,14 +1,11 @@
-name: Update Space Shooter Game
+name: Generate Space Shooter Graph
 
 on:
- schedule: # Runs every 24 hours
+  schedule: # Runs every 24 hours
     - cron: "0 0 * * *" 
   workflow_dispatch: # Allows you to run it manually
 
-permissions:
-  contents: write
-
-  jobs:
+jobs:
   build:
     runs-on: ubuntu-latest
     steps:
