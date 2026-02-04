@@ -92,15 +92,28 @@
 </p>
 
 
-<!-- Pac-Man Contribution Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/pacman-contribution-graph.svg">
-</picture>
+<!-- 🎮 Contribution Games -->
+<h2 align="center">🎮 Contribution Games</h2>
 
-<!-- Space Shooter Contribution Graph -->
-![My GitHub Space Shooter](space-shooter.gif)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man Contribution Graph"
+         src="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/pacman-contribution-graph.svg"
+         width="95%" />
+  </picture>
+</p>
 
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/main/space-shooter.gif"
+       alt="GitHub Space Shooter Game"
+       width="95%" />
+</p>
 
 
 ---
