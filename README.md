@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=9,13,17,21,27,33&text=Pasan%20Hansaka&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20UI/UX%20Designer%20|%20Backend%20Architect&descSize=22&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=9,13,17,21,27,33&text=Pasan%20Hansaka&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20|%20UI/UX%20Designer%20|%20Graphic%20Designer&descSize=22&descAlignY=60" width="100%"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=C2CD0C&center=true&vCenter=true&width=700&lines=Building+Scalable+Java+Ecosystems;Crafting+Modern+Mobile+Experiences;Architecting+Cloud-Native+Solutions;Designing+User-Centric+Digital+Products" alt="Typing introduction" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=C2CD0C&center=true&vCenter=true&width=700&lines=Building+Scalable+Java+Ecosystems;Crafting+Modern+Mobile+Experiences;Frontend+Designing;Backend+Developing;" alt="Typing introduction" />
 </p>
 
 ---
@@ -11,28 +11,28 @@
 ## ⚡ Quick Bit
 
 <div align="center">
-<table border="0">
-  <tr>
-    <td width="50%" align="left">
-      <h3>🚀 Backend Architect</h3>
-      <p>Expert in <b>Jakarta EE</b> and <b>EJB</b>. I architect robust, secure RESTful APIs and enterprise-grade server environments.</p>
-    </td>
-    <td width="50%" align="left">
-      <h3>📱 Mobile Specialist</h3>
-      <p>Crafting high-performance native experiences using <b>Android (Java)</b> and <b>React Native</b> for cross-platform excellence.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="left">
-      <h3>☁️ Cloud & Systems</h3>
-      <p>Deep diving into <b>Cloud Architectures</b> and system design to build scalable, high-availability digital infrastructures.</p>
-    </td>
-    <td width="50%" align="left">
-      <h3>🎨 UI/UX Design</h3>
-      <p>Design-driven development. I ensure complex logic is wrapped in <b>user-centric</b>, beautiful interfaces.</p>
-    </td>
-  </tr>
-</table>
+  <table border="0">
+    <tr>
+      <td width="50%" align="left">
+        <h3>🚀 Backend Architect</h3>
+        <p>Expert in <b>Jakarta EE</b> and <b>EJB</b>. I architect robust, secure RESTful APIs and enterprise-grade server environments.</p>
+      </td>
+      <td width="50%" align="left">
+        <h3>📱 Mobile Specialist</h3>
+        <p>Crafting high-performance native experiences using <b>Android (Java)</b> and <b>React Native</b> for cross-platform excellence.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="left">
+        <h3>☁️ Cloud & Systems</h3>
+        <p>Deep diving into <b>Cloud Architectures</b> and system design to build scalable, high-availability digital infrastructures.</p>
+      </td>
+      <td width="50%" align="left">
+        <h3>🎨 UI/UX Design</h3>
+        <p>Design-driven development. I ensure complex logic is wrapped in <b>user-centric</b>, beautiful interfaces.</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -86,7 +86,6 @@
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=pasanhansaka&theme=dark" />
-  <br/>
 </p>
 
 ---
@@ -110,8 +109,6 @@
 </p>
 
 ---
-
-
 
 ## ☕ Support Me
 
