@@ -43,12 +43,12 @@
 
 | **Domain** | **Technologies & Frameworks** |
 | :---: | :--- |
-| <div align="center"><img src="https://img.icons8.com/ios-filled/50/ffffff/web.png" width="25"/><br/>**Frontend**</div> | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&perline=10" /> |
-| <div align="center"><img src="https://img.icons8.com/ios-filled/50/ffffff/server.png" width="25"/><br/>**Backend**</div> | <img src="https://skillicons.dev/icons?i=java,php,nodejs,express,spring,hibernate&perline=10" /> |
-| <div align="center"><img src="https://img.icons8.com/ios-filled/50/ffffff/smartphone.png" width="25"/><br/>**Mobile**</div> | <img src="https://skillicons.dev/icons?i=androidstudio,react,apple&perline=10" /> |
-| <div align="center"><img src="https://img.icons8.com/ios-filled/50/ffffff/database.png" width="25"/><br/>**Database**</div> | <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite&perline=10" /> |
-| <div align="center"><img src="https://img.icons8.com/ios-filled/50/ffffff/cloud.png" width="25"/><br/>**Cloud & Tools**</div> | <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,vscode&perline=10" /> |
-| <div align="center"><img src="https://img.icons8.com/ios-filled/50/ffffff/design.png" width="25"/><br/>**Design**</div> | <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr&perline=10" /> |
+| <div align="center"><img src="https://img.icons8.com/ios-filled/50/ffffff/web.png" width="25"/><br/>**Frontend**</div> | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" height="40" /> |
+| <div align="center"><img src="https://img.icons8.com/ios-filled/50/ffffff/server.png" width="25"/><br/>**Backend**</div> | <img src="https://skillicons.dev/icons?i=java,php,nodejs,express,spring,hibernate" height="40" /> |
+| <div align="center"><img src="https://img.icons8.com/ios-filled/50/ffffff/smartphone.png" width="25"/><br/>**Mobile**</div> | <img src="https://skillicons.dev/icons?i=androidstudio,react,apple" height="40" /> |
+| <div align="center"><img src="https://img.icons8.com/ios-filled/50/ffffff/database.png" width="25"/><br/>**Database**</div> | <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite" height="40" /> |
+| <div align="center"><img src="https://img.icons8.com/ios-filled/50/ffffff/cloud.png" width="25"/><br/>**Cloud & Tools**</div> | <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,vscode" height="40" /> |
+| <div align="center"><img src="https://img.icons8.com/ios-filled/50/ffffff/design.png" width="25"/><br/>**Design**</div> | <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr" height="40" /> |
 
 </div>
 
