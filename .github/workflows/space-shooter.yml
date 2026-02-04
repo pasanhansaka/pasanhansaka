@@ -5,28 +5,17 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-jobs:
-  build:
+  jobs:
+  update-game:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Generate Space Shooter Graph
-        uses: czl9707/gh-space-shooter@v1
+      - uses: czl9707/gh-space-shooter@v1
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/space-shooter-graph.svg
             dist/space-shooter-graph-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          strategy: 'random'
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
