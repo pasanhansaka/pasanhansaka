@@ -99,10 +99,8 @@
 </picture>
 
 <!-- Space Shooter Contribution Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/pacman-contribution-graph.svg">
-</picture>
+![My GitHub Space Shooter](space-shooter.gif)
+
 
 
 ---
