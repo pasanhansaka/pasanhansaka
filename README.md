@@ -1,77 +1,88 @@
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=9,13,17,21,27,33&text=Pasan%20Hansaka&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20UI/UX%20Designer%20|%20IoT%20Enthusiast&descSize=22&descAlignY=60" width="100%"/>
+</div>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&&color=gradient&customColorList=9,13,17,21,27,33&text=Pasan%20Hansaka&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&descSize=18&descAlignY=55"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=C2CD0C&center=true&vCenter=true&width=700&lines=Building+Scalable+Java+Ecosystems;Crafting+Modern+Mobile+Experiences;Bridging+Software+with+IoT+and+ESP32;Designing+User-Centric+Digital+Products" alt="Typing introduction" /> 
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=C2CD0C&center=true&vCenter=true&width=650&lines=I'm%20a%20Full%20Stack%20Software%20Engineer;I'm%20an%20UI%20%2F%20UX%20Designer;I'm%20a%20Web%20Developer;I'm%20a%20Graphic%20Designer;I'm%20a%20Video%20Editor" alt="Typing introduction" /> 
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%" />
 
 ---
 
-## 📌 About Me
+## ⚡ Quick Bit
 
-💡 I am a **Software Developer** focused on building high-performance, secure, and scalable digital solutions. I specialize in the **Java Ecosystem** and **Mobile Development**, with a unique edge in hardware integration.
+<div align="center">
+<table border="0">
+  <tr>
+    <td width="50%" align="left">
+      <h3>🚀 Backend Architect</h3>
+      <p>Expert in <b>Jakarta EE</b> and <b>EJB</b>. I build robust, secure RESTful APIs that power scalable enterprise systems.</p>
+    </td>
+    <td width="50%" align="left">
+      <h3>📱 Mobile Specialist</h3>
+      <p>Crafting high-performance native experiences using <b>Android (Java)</b> and <b>React Native</b> for cross-platform excellence.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="left">
+      <h3>🔌 IoT & Hardware</h3>
+      <p>Bridging software and reality with <b>ESP32</b> and embedded systems. I love making hardware talk to the cloud.</p>
+    </td>
+    <td width="50%" align="left">
+      <h3>🎨 UI/UX Design</h3>
+      <p>Design-driven development. I ensure complex logic is wrapped in <b>user-centric</b>, beautiful interfaces.</p>
+    </td>
+  </tr>
+</table>
+</div>
 
-* **🚀 Backend:** Expert in Jakarta EE, EJB, Servlets, and RESTful API architecture.
-* **📱 Mobile:** Building native-feel experiences with Android (Java) and React Native.
-* **🔌 Hardware:** Experienced in embedded systems and IoT using **ESP32**.
-* **🎨 Design:** Bridging the gap between complex logic and user-centric UI/UX.
+---
 
-- 🌍 Based in **Sri Lanka** 🇱🇰
-- ✉️ Contact: **[pasanhansaka31@gmail.com](mailto:pasanhansaka31@gmail.com)**
-- 🧠 Currently exploring advanced cloud architectures and system design.
+## 🛠️ Tech Stack & Expertise
+
+<div align="center">
+
+| **Domain** | **Technologies & Frameworks** |
+| :---: | :--- |
+| <div align="center"><img src="https://img.icons8.com/ios-filled/50/ffffff/web.png" width="25"/><br/>**Frontend**</div> | <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,bootstrap" /> |
+| <div align="center"><img src="https://img.icons8.com/ios-filled/50/ffffff/server.png" width="25"/><br/>**Backend**</div> | <img src="https://skillicons.dev/icons?i=nodejs,express,spring,hibernate" /> |
+| <div align="center"><img src="https://img.icons8.com/ios-filled/50/ffffff/smartphone.png" width="25"/><br/>**Mobile**</div> | <img src="https://skillicons.dev/icons?i=androidstudio,react,apple" /> |
+| <div align="center"><img src="https://img.icons8.com/ios-filled/50/ffffff/database.png" width="25"/><br/>**Database**</div> | <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite" /> |
+| <div align="center"><img src="https://img.icons8.com/ios-filled/50/ffffff/processor.png" width="25"/><br/>**IoT/HW**</div> | <img src="https://skillicons.dev/icons?i=arduino,cpp,raspberrypi" /> |
+| <div align="center"><img src="https://img.icons8.com/ios-filled/50/ffffff/design.png" width="25"/><br/>**Design**</div> | <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr" /> |
+
+</div>
+
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://facebook.com/pasanhansaka26"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/pasanhansaka26"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/pasan-hansaka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/@pasanhansaka26"><img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white"/></a>
-  <a href="https://youtube.com/@pasanhansaka"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"/></a>
-  <a href="https://wa.me/940701769147"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/pasan-hansaka">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:pasanhansaka31@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail--v1.png" alt="Email" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/940701769147">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/@pasanhansaka26">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="X" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/pasanhansaka26">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://facebook.com/pasanhansaka26">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://youtube.com/@pasanhansaka">
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="YouTube" width="40" />
+  </a>
 </p>
 
 ---
 
-## 💻 Tech Stack
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⚙️ Backend & Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-
-### 📱 Mobile
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo)
-
-### 🧰 Tools & Design
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe)
-
----
-
-## 📊 GitHub Stats
+## 📊 Performance Metrics
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=pasanhansaka&theme=dark" />
@@ -80,41 +91,24 @@
 
 ---
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
----
+## 🎮 Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasanhansaka&theme=radical&radius=10"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasanhansaka&theme=radical&radius=10" width="100%"/>
 </p>
 
-
-<!-- 🎮 Contribution Games -->
-<h2 align="center">🎮 Contribution Games</h2>
+## 🎮 Contribution Games
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man Contribution Graph"
-         src="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/pacman-contribution-graph.svg"
-         width="95%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/pacman-contribution-graph.svg" width="100%" />
   </picture>
 </p>
-
-<br/>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/main/space-shooter.gif"
-       alt="GitHub Space Shooter Game"
-       width="95%" />
+  <img src="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/main/space-shooter.gif" alt="GitHub Space Shooter Game" width="95%" />
 </p>
-
 
 ---
 
@@ -132,9 +126,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pasanhansaka&label=Profile%20Views&color=00FFFF&style=flat-square"/>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pasanhansaka&label=PROFILE+VIEWS&color=C2CD0C&style=for-the-badge" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
