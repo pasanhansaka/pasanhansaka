@@ -57,25 +57,25 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/pasan-hansaka">
+  <a href="https://linkedin.com/in/pasan-hansaka" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:pasanhansaka31@gmail.com">
+  <a href="mailto:pasanhansaka31@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/fluent/48/000000/gmail--v1.png" alt="Email" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://wa.me/940701769147">
+  <a href="https://wa.me/940701769147" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://x.com/@pasanhansaka26">
+  <a href="https://x.com/@pasanhansaka26" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="X" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/pasanhansaka26">
+  <a href="https://instagram.com/pasanhansaka26" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://facebook.com/pasanhansaka26">
+  <a href="https://facebook.com/pasanhansaka26" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://youtube.com/@pasanhansaka">
+  <a href="https://youtube.com/@pasanhansaka" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="YouTube" width="40" />
   </a>
 </p>
