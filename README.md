@@ -91,13 +91,28 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasanhansaka&theme=radical&radius=10"/>
 </p>
 
+<!-- Pac-Man Contribution Graph -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/pacman-contribution-graph.svg">
-  <br/>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/space-shooter-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/space-shooter-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph"
+       src="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/pacman-contribution-graph.svg">
 </picture>
+
+<br/>
+
+<!-- Space Shooter Contribution Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/space-shooter-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/space-shooter-graph.svg">
+  <img alt="Space Shooter Contribution Graph"
+       src="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/space-shooter-graph.svg">
+</picture>
+
 
 ---
 
