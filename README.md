@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=9,13,17,21,27,33&text=Pasan%20Hansaka&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20UI/UX%20Designer%20|%20IoT%20Enthusiast&descSize=22&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=9,13,17,21,27,33&text=Pasan%20Hansaka&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20UI/UX%20Designer%20|%20Backend%20Architect&descSize=22&descAlignY=60" width="100%"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=C2CD0C&center=true&vCenter=true&width=700&lines=Building+Scalable+Java+Ecosystems;Crafting+Modern+Mobile+Experiences;Bridging+Software+with+IoT+and+ESP32;Designing+User-Centric+Digital+Products" alt="Typing introduction" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=C2CD0C&center=true&vCenter=true&width=700&lines=Building+Scalable+Java+Ecosystems;Crafting+Modern+Mobile+Experiences;Architecting+Cloud-Native+Solutions;Designing+User-Centric+Digital+Products" alt="Typing introduction" /> 
 </p>
 
 ---
@@ -15,7 +15,7 @@
   <tr>
     <td width="50%" align="left">
       <h3>🚀 Backend Architect</h3>
-      <p>Expert in <b>Jakarta EE</b> and <b>EJB</b>. I build robust, secure RESTful APIs that power scalable enterprise systems.</p>
+      <p>Expert in <b>Jakarta EE</b> and <b>EJB</b>. I architect robust, secure RESTful APIs and enterprise-grade server environments.</p>
     </td>
     <td width="50%" align="left">
       <h3>📱 Mobile Specialist</h3>
@@ -24,8 +24,8 @@
   </tr>
   <tr>
     <td width="50%" align="left">
-      <h3>🔌 IoT & Hardware</h3>
-      <p>Bridging software and reality with <b>ESP32</b> and embedded systems. I love making hardware talk to the cloud.</p>
+      <h3>☁️ Cloud & Systems</h3>
+      <p>Deep diving into <b>Cloud Architectures</b> and system design to build scalable, high-availability digital infrastructures.</p>
     </td>
     <td width="50%" align="left">
       <h3>🎨 UI/UX Design</h3>
@@ -97,8 +97,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasanhansaka&theme=radical&radius=10" width="100%"/>
 </p>
 
-## 🎮 Contribution Games
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/pacman-contribution-graph-dark.svg">
@@ -106,11 +104,14 @@
     <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/pacman-contribution-graph.svg" width="100%" />
   </picture>
 </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/main/space-shooter.gif" alt="GitHub Space Shooter Game" width="95%" />
 </p>
 
 ---
+
+
 
 ## ☕ Support Me
 
