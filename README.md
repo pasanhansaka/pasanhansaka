@@ -18,15 +18,15 @@
         <p>Expert in <b>Jakarta EE</b> and <b>EJB</b>. I architect robust, secure RESTful APIs and enterprise-grade server environments.</p>
       </td>
       <td width="50%" align="left">
-        <h3>📱 Mobile Specialist</h3>
+        <h3>📱 Mobile Development</h3>
         <p>Crafting high-performance native experiences using <b>Android (Java)</b> and <b>React Native</b> for cross-platform excellence.</p>
       </td>
     </tr>
     <tr>
-      <td width="50%" align="left">
+      <!-- <td width="50%" align="left">
         <h3>☁️ Cloud & Systems</h3>
         <p>Deep diving into <b>Cloud Architectures</b> and system design to build scalable, high-availability digital infrastructures.</p>
-      </td>
+      </td> -->
       <td width="50%" align="left">
         <h3>🎨 UI/UX Design</h3>
         <p>Design-driven development. I ensure complex logic is wrapped in <b>user-centric</b>, beautiful interfaces.</p>
