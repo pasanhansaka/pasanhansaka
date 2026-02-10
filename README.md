@@ -104,10 +104,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/main/space-shooter.gif" alt="GitHub Space Shooter Game" width="95%" />
-</p>
-
 ---
 
 ## ☕ Support Me
