@@ -4,13 +4,8 @@
 <!--                    HERO BANNER                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=Pasan%20Hansaka&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%E2%80%93Stack%20Engineer%20%E2%80%A2%20Mobile%20Developer%20%E2%80%A2%20UI%2FUX%20Designer&descSize=17&descAlignY=58&descColor=a78bfa&stroke=7c3aed&strokeWidth=1.5" width="100%" alt="Hero Banner"/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║  BANNER 2 — Venom electric-blue hero  (modern deep style)    ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=gradient&customColorList=6,11,20&text=Building%20Things%20That%20Matter&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Jakarta%20EE%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React%20Native%20%E2%80%A2%20Android&descSize=16&descAlignY=65&descColor=58A6FF&stroke=58A6FF&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=Pasan%20Hansaka&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%E2%80%93Stack%20Engineer%20%E2%80%A2%20Mobile%20Developer%20%E2%80%A2%20UI%2FUX%20Designer&descSize=17&descAlignY=58&descColor=a78bfa&stroke=7c3aed&strokeWidth=1.5" width="100%" alt="Hero Banner" style="display:block;margin-bottom:-6px"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=0:24243e,50:302b63,100:0f0c29&text=Building%20Things%20That%20Matter&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=44&desc=Jakarta%20EE%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React%20Native%20%E2%80%A2%20Android&descSize=15&descAlignY=68&descColor=58A6FF&stroke=7c3aed&strokeWidth=1" width="100%" alt="Venom Bubble"/>
 
 </div>
 
