@@ -13,7 +13,6 @@ jobs:
     name: Generate contribution snake
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
     permissions:
       contents: write
 
@@ -28,11 +27,16 @@ jobs:
           outputs: |
             dist/github-snake.svg?palette=github
             dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push output to `output` branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push output to `output` branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
