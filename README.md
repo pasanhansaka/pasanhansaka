@@ -201,8 +201,7 @@ Instant keyboard key-code inspector for devs. Press any key → see the code. Mi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasanhansaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" height="170"/>
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pasanhansaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" height="170"/>
 <br/>
 
 <picture>
