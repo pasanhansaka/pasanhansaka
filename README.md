@@ -1,17 +1,19 @@
-<div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    HERO BANNER                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=Pasan%20Hansaka&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%E2%80%93Stack%20Engineer%20%E2%80%A2%20Mobile%20Developer%20%E2%80%A2%20UI%2FUX%20Designer&descSize=17&descAlignY=58&descColor=a78bfa&stroke=7c3aed&strokeWidth=1.5" width="100%" alt="Hero Banner" style="display:block;margin-bottom:-6px"/>
-<img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=0:24243e,50:302b63,100:0f0c29&text=Building%20Things%20That%20Matter&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=44&desc=HTML%20%E2%80%A2%20CSS%20%E2%80%A2%20JS%20%E2%80%A2%20PHP%20%E2%80%A2%20Java%20%E2%80%A2%20React%20%E2%80%A2%20Node%20%E2%80%A2%20Express%20%E2%80%A2%20Next.js&descSize=15&descAlignY=68&descColor=58A6FF&stroke=7c3aed&strokeWidth=1" width="100%" alt="Venom Bubble"/>
-
-</div>
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║           PASAN HANSAKA — GITHUB PROFILE README             ║
+║           Redesigned · Futuristic · Unique                  ║
+╚══════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=const+pasan+%3D+new+Engineer(%7Bstack%3A+%22Full-Stack%22%7D)%3B;pasan.build(%22scalable+enterprise+systems%22)%3B;pasan.craft(%22pixel-perfect+mobile+apps%22)%3B;pasan.design(%22interfaces+that+feel+alive%22)%3B;%2F%2F+Open+to+collaborate+%F0%9F%9A%80)](https://github.com/pasanhansaka)
+<!-- ══════════════════════  HERO HEADER  ══════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=12" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=320&color=0:050010,25:0d0030,55:130040,85:0a0025,100:000000&text=PASAN%20HANSAKA&fontSize=76&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=BSc%20%28Hons%29%20Software%20Engineer%20%E2%80%94%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descSize=16&descAlignY=58&descColor=9d6fff&stroke=6d28d9&strokeWidth=1.5" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=12" width="100%"/>
 
 </div>
 
@@ -19,262 +21,393 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pasanhansaka)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pasanhansaka31@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pasanhansaka)
-[![Facebook](https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/pasanhansaka03)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pasanhansaka26)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pasanhansaka03)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/940701769147)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=pasanhansaka&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/pasanhansaka?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1a1a2e)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2400&pause=700&color=9D6FFF&center=true&vCenter=true&width=750&lines=%24+whoami+→+Full-Stack+Engineer+%7C+Mobile+Dev+%7C+UI%2FUX+Designer;%24+status+→+Building+dwesk+CRM+%40+Synapse+Solutions+%E2%9A%A1;%24+stack+→+Java+%7C+Spring+%7C+React+%7C+React+Native+%7C+Node.js;%24+invite+→+Open+to+Collabs%2C+Freelance+%26+Open-Source+%F0%9F%9A%80)](https://github.com/pasanhansaka)
 
 </div>
 
----
+<br/>
 
-## 🧬 `whoami`
+<!-- ══════════════════════  CONTACT STRIP  ══════════════════════ -->
 
-```typescript
-const pasan: FullStackEngineer = {
-  name:     "Pasan Hansaka",
-  from:     "Sri Lanka 🇱🇰",
-  roles:    ["Backend Architect", "Mobile Engineer", "UI/UX Designer"],
-  motto:    "Ship fast. Design beautifully. Scale infinitely.",
+<div align="center">
 
-  building: [
-    "Enterprise apps  →  Jakarta EE & Spring Boot",
-    "Mobile apps      →  React Native & Android",
-    "Interfaces       →  Figma → Pixel-perfect code",
-  ],
-
-  openTo:   ["Collaborations", "Freelance", "Open-Source"],
-  funFact:  "I debug with console.log and I'm proud of it 😅",
-};
+```
+  ┌───────────────────────────── CONNECT ─────────────────────────────┐
 ```
 
-<br clear="right"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fpasanhansaka-6d28d9?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0a1a)](https://linkedin.com/in/pasanhansaka)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-pasanhansaka31%40gmail.com-6d28d9?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0a1a)](mailto:pasanhansaka31@gmail.com)
+&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B94%200701%20769%20147-6d28d9?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0a0a1a)](https://wa.me/940701769147)
 
----
+<br/>
 
-## 🛠️ Tech Arsenal
+[![YouTube](https://img.shields.io/badge/▶_YouTube-@pasanhansaka-9d6fff?style=flat-square&logo=youtube&logoColor=white&labelColor=0a0a1a)](https://youtube.com/@pasanhansaka)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/◈_Instagram-pasanhansaka26-9d6fff?style=flat-square&logo=instagram&logoColor=white&labelColor=0a0a1a)](https://instagram.com/pasanhansaka26)
+&nbsp;
+[![Facebook](https://img.shields.io/badge/◈_Facebook-pasanhansaka03-9d6fff?style=flat-square&logo=facebook&logoColor=white&labelColor=0a0a1a)](https://facebook.com/pasanhansaka03)
+&nbsp;
+[![X](https://img.shields.io/badge/◈_X-@pasanhansaka03-9d6fff?style=flat-square&logo=x&logoColor=white&labelColor=0a0a1a)](https://x.com/pasanhansaka03)
 
-<div align="center">
+```
+  └────────────────────────────────────────────────────────────────────┘
+```
 
-### ◆ Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<br/>
 
-### ◆ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-
-### ◆ Backend & Enterprise
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-E4002B?style=for-the-badge&logo=jakarta-ee&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### ◆ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### ◆ DevOps & Tooling
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-### ◆ Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=pasanhansaka&label=PROFILE+VIEWS&color=6d28d9&style=flat-square)
+&nbsp;&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/pasanhansaka?label=Followers&style=flat-square&color=9d6fff&labelColor=0a0a1a)
+&nbsp;&nbsp;
+![Stars](https://img.shields.io/github/stars/pasanhansaka?label=Total+Stars&style=flat-square&color=9d6fff&labelColor=0a0a1a)
 
 </div>
 
+<br/>
+
 ---
 
-## 🚀 Featured Projects
+<!-- ══════════════════════  IDENTITY  ══════════════════════ -->
+
+## `{ identity }` &nbsp; Who I Am
+
+```typescript
+/**
+ * ╔══════════════════════════════════════════════════════╗
+ * ║          PASAN HANSAKA  //  ENGINEER FILE           ║
+ * ║          v2026.06  //  Online & Building            ║
+ * ╚══════════════════════════════════════════════════════╝
+ */
+
+const engineer = {
+  name        :  "Pasan Hansaka",
+  location    :  "Kalutara, Sri Lanka 🇱🇰",
+  education   :  "BSc (Hons) Software Engineering — Birmingham City University",
+  roles       :  ["Backend Architect", "Mobile Engineer", "UI/UX Designer"],
+
+  now         :  "Building dwesk Social CRM @ Synapse Solutions ⚡",
+
+  stack: {
+    enterprise :  ["Jakarta EE", "Spring Boot", "Spring MVC", "MySQL", "Tomcat"],
+    mobile     :  ["React Native", "Expo", "Android"],
+    frontend   :  ["React", "Next.js", "TypeScript", "AngularJS", "Tailwind CSS"],
+    backend    :  ["Node.js", "Express", "REST APIs"],
+    devops     :  ["Linux (Ubuntu)", "Docker", "Git", "Maven"],
+    design     :  ["Figma → pixel-perfect code", "Adobe XD", "Illustrator"],
+  },
+
+  openTo      :  ["Collaborations 🤝", "Freelance 💼", "Open-Source 🌍"],
+  motto       :  "Ship fast. Design beautifully. Scale infinitely.",
+  confession  :  "I debug with console.log() and I will never apologise 😅",
+} as const;
+```
+
+<br/>
+
+---
+
+<!-- ══════════════════════  TECH ARSENAL  ══════════════════════ -->
+
+## `{ tech_arsenal }` &nbsp; Stack & Tooling
+
+<!-- ░░░░ ROW LABELS as a visual header ░░░░ -->
 
 <div align="center">
+
 <table>
 <tr>
-<td width="50%" valign="top">
-
-<h3>🏥 GlobeMed — Hospital Management</h3>
-
-Enterprise-grade Java system managing full hospital operations. Built on solid **OOP Design Patterns** — scalable, maintainable, and production-ready.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-%E2%86%92-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasanhansaka/GlobeMed-Hospital-Management-System)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP_Patterns-555?style=flat-square)
-
+<td align="center" width="96">
+<img src="https://techicons.dev/icons/java" width="48" height="48" alt="Java"/>
+<br/><sub><b>Java</b></sub>
 </td>
-<td width="50%" valign="top">
-
-<h3>💬 HelaChat — Real-Time Chat App</h3>
-
-Cross-platform mobile messaging with **React Native** & Firebase. Real-time updates, clean UI, and buttery-smooth UX on both iOS and Android.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-%E2%86%92-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasanhansaka/HelaChat)
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
+<td align="center" width="96">
+<img src="https://techicons.dev/icons/javascript" width="48" height="48" alt="JS"/>
+<br/><sub><b>JavaScript</b></sub>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🏦 Hela Bank — Banking System</h3>
-
-Secure Java banking platform with core transaction management, built on **enterprise Java practices** and clean OOP design.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-%E2%86%92-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasanhansaka/Hela_Bank)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
+<td align="center" width="96">
+<img src="https://techicons.dev/icons/typescript" width="48" height="48" alt="TS"/>
+<br/><sub><b>TypeScript</b></sub>
 </td>
-<td width="50%" valign="top">
-
-<h3>🛒 GreenBasket — Fresh Produce Store</h3>
-
-Full-stack e-commerce web app with smart product filtering, clean UI, and a seamless end-to-end shopping experience.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-%E2%86%92-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasanhansaka/GreenBasket-Fresh-Produce-Online-Store)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
+<td align="center" width="96">
+<img src="https://techicons.dev/icons/react" width="48" height="48" alt="React"/>
+<br/><sub><b>React</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techicons.dev/icons/reactnative" width="48" height="48" alt="React Native"/>
+<br/><sub><b>React Native</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techicons.dev/icons/nextjs" width="48" height="48" alt="Next.js"/>
+<br/><sub><b>Next.js</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techicons.dev/icons/nodejs" width="48" height="48" alt="Node.js"/>
+<br/><sub><b>Node.js</b></sub>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-<h3>🎮 2D Adventure Game</h3>
-
-Browser-based 2D game exploring game mechanics, DOM manipulation, and creative UI design — pure **Vanilla JS** power.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-%E2%86%92-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasanhansaka/2D-Adventure-Game)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
+<td align="center" width="96">
+<img src="https://techicons.dev/icons/springboot" width="48" height="48" alt="Spring Boot"/>
+<br/><sub><b>Spring Boot</b></sub>
 </td>
-<td width="50%" valign="top">
-
-<h3>⌨️ Key Code Finder</h3>
-
-Instant keyboard key-code inspector for devs. Press any key → see the code. Minimal, fast, useful.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-%E2%86%92-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasanhansaka/Key-Code-Finder-Interactive-Keyboard-Code-Helper)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
+<td align="center" width="96">
+<img src="https://techicons.dev/icons/tailwindcss" width="48" height="48" alt="Tailwind"/>
+<br/><sub><b>Tailwind CSS</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techicons.dev/icons/mysql" width="48" height="48" alt="MySQL"/>
+<br/><sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techicons.dev/icons/mongodb" width="48" height="48" alt="MongoDB"/>
+<br/><sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techicons.dev/icons/postgresql" width="48" height="48" alt="PostgreSQL"/>
+<br/><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techicons.dev/icons/firebase" width="48" height="48" alt="Firebase"/>
+<br/><sub><b>Firebase</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techicons.dev/icons/docker" width="48" height="48" alt="Docker"/>
+<br/><sub><b>Docker</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://techicons.dev/icons/git" width="48" height="48" alt="Git"/>
+<br/><sub><b>Git</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techicons.dev/icons/linux" width="48" height="48" alt="Linux"/>
+<br/><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techicons.dev/icons/figma" width="48" height="48" alt="Figma"/>
+<br/><sub><b>Figma</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techicons.dev/icons/html5" width="48" height="48" alt="HTML5"/>
+<br/><sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techicons.dev/icons/css3" width="48" height="48" alt="CSS3"/>
+<br/><sub><b>CSS3</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techicons.dev/icons/postman" width="48" height="48" alt="Postman"/>
+<br/><sub><b>Postman</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techicons.dev/icons/angular" width="48" height="48" alt="Angular"/>
+<br/><sub><b>AngularJS</b></sub>
 </td>
 </tr>
 </table>
+
+</div>
+
+<br/>
+
+<!-- Skill bars as visual category labels -->
+
+<div align="center">
+
+```
+ ████████████████████████  LANGUAGES     Java · JS · TS · HTML · CSS · SQL
+ █████████████████░░░░░░░  FRONTEND      React · RN · Next.js · Tailwind · Bootstrap · Expo
+ ████████████████████░░░░  BACKEND       Spring Boot · Jakarta EE · Node.js · Express · AngularJS
+ █████████████░░░░░░░░░░░  DATABASES     MySQL · PostgreSQL · MongoDB · Firebase
+ ████████████████░░░░░░░░  DEVOPS        Git · Docker · Linux · Maven · Tomcat · Postman
+ ██████████████░░░░░░░░░░  DESIGN        Figma · Adobe XD · Illustrator · Photoshop
+```
+
+</div>
+
+<br/>
+
+---
+
+<!-- ══════════════════════  PROJECTS  ══════════════════════ -->
+
+## `{ projects }` &nbsp; What I've Built
+
+<br/>
+
+<!-- ──── PROJECT CARDS ──── -->
+
+<div align="center">
+
+<!-- Row 1 -->
+
+<a href="https://github.com/pasanhansaka/AnyDown">
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pasanhansaka&repo=AnyDown&theme=tokyonight&hide_border=true&bg_color=0D0020&title_color=9d6fff&icon_color=6d28d9&text_color=c9d1d9&border_radius=12"/>
+</a>
+
+<a href="https://github.com/pasanhansaka/GorillaFit">
+<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pasanhansaka&repo=GorillaFit&theme=tokyonight&hide_border=true&bg_color=0D0020&title_color=9d6fff&icon_color=6d28d9&text_color=c9d1d9&border_radius=12"/>
+</a>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<!-- Row 2 -->
+
+<a href="https://github.com/pasanhansaka/HelaChat">
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pasanhansaka&repo=HelaChat&theme=tokyonight&hide_border=true&bg_color=0D0020&title_color=9d6fff&icon_color=6d28d9&text_color=c9d1d9&border_radius=12"/>
+</a>
+
+<a href="https://github.com/pasanhansaka/GlobeMed-Hospital-Management-System">
+<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pasanhansaka&repo=GlobeMed-Hospital-Management-System&theme=tokyonight&hide_border=true&bg_color=0D0020&title_color=9d6fff&icon_color=6d28d9&text_color=c9d1d9&border_radius=12"/>
+</a>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<!-- Row 3 -->
+
+<a href="https://github.com/pasanhansaka/GreenBasket-Fresh-Produce-Online-Store">
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pasanhansaka&repo=GreenBasket-Fresh-Produce-Online-Store&theme=tokyonight&hide_border=true&bg_color=0D0020&title_color=9d6fff&icon_color=6d28d9&text_color=c9d1d9&border_radius=12"/>
+</a>
+
+<a href="https://github.com/pasanhansaka/Hela_Bank">
+<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pasanhansaka&repo=Hela_Bank&theme=tokyonight&hide_border=true&bg_color=0D0020&title_color=9d6fff&icon_color=6d28d9&text_color=c9d1d9&border_radius=12"/>
+</a>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<!-- Row 4 — smaller projects side by side -->
+
+<a href="https://github.com/pasanhansaka/2D-Adventure-Game">
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pasanhansaka&repo=2D-Adventure-Game&theme=tokyonight&hide_border=true&bg_color=0D0020&title_color=9d6fff&icon_color=6d28d9&text_color=c9d1d9&border_radius=12"/>
+</a>
+
+<a href="https://github.com/pasanhansaka/Key-Code-Finder-Interactive-Keyboard-Code-Helper">
+<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pasanhansaka&repo=Key-Code-Finder-Interactive-Keyboard-Code-Helper&theme=tokyonight&hide_border=true&bg_color=0D0020&title_color=9d6fff&icon_color=6d28d9&text_color=c9d1d9&border_radius=12"/>
+</a>
+
+</div>
+
+<br/><br/>
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ══════════════════════  STATS  ══════════════════════ -->
+
+## `{ metrics }` &nbsp; By the Numbers
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pasanhansaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" height="170"/>
-<br/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pasanhansaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0020&title_color=9d6fff&icon_color=6d28d9&text_color=c9d1d9&ring_color=6d28d9&border_radius=12&include_all_commits=true&count_private=true" height="185"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pasanhansaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0020&title_color=9d6fff&text_color=c9d1d9&langs_count=8&border_radius=12" height="185"/>
+
+<br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=pasanhansaka&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=ff6b6b&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=c9d1d9&sideNums=58A6FF&currStreakNum=ffffff"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com?user=pasanhansaka&theme=tokyonight&hide_border=true&ring=58A6FF&fire=ff6b6b&currStreakLabel=0D1117"/>
-  <img src="https://streak-stats.demolab.com?user=pasanhansaka&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=ff6b6b&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=c9d1d9&sideNums=58A6FF&currStreakNum=ffffff"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pasanhansaka&theme=tokyonight&hide_border=true&background=0D0020&ring=6d28d9&fire=9d6fff&currStreakLabel=9d6fff&sideLabels=9d6fff&dates=c9d1d9&sideNums=9d6fff&currStreakNum=ffffff&border_radius=12"/>
+  <img src="https://streak-stats.demolab.com?user=pasanhansaka&theme=tokyonight&hide_border=true&background=0D0020&ring=6d28d9&fire=9d6fff&currStreakLabel=9d6fff&sideLabels=9d6fff&dates=c9d1d9&sideNums=9d6fff&currStreakNum=ffffff&border_radius=12"/>
 </picture>
 
 </div>
 
+<br/>
+
 ---
 
-## 🏆 Trophies
+## `{ trophies }` &nbsp; Achievements
 
 <div align="center">
 
-<!--
-  ════════════════════════════════════════════════════════════════════
-  TROPHY FIX — primary vercel app is overloaded due to high traffic.
-  Strategy: use the official volunteer mirror hosted by Adwitya,
-  listed directly on ryo-ma/github-profile-trophy's own README.
-  column=6 (not 7) for stable rendering across all screen widths.
-  ════════════════════════════════════════════════════════════════════
--->
-
-<img src="https://github-profile-trophy-liard.vercel.app/?username=pasanhansaka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%" />
+<img src="https://github-profile-trophy-liard.vercel.app/?username=pasanhansaka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=6" width="100%"/>
 
 </div>
 
+<br/>
+
 ---
 
-## 📈 Contribution Graph
+## `{ activity }` &nbsp; Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pasanhansaka&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=2d1b69&custom_title=Pasan%27s+Contribution+Graph" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pasanhansaka&theme=tokyo-night&hide_border=true&bg_color=0D0020&color=9d6fff&line=6d28d9&point=c4b5fd&area=true&area_color=1a003e&custom_title=Pasan's%20Contribution%20Heatmap" width="100%"/>
 
 </div>
 
+<br/>
+
 ---
 
-## 🐍 Contribution Snake
+## `{ snake }` &nbsp; Eating My Commits
 
 <div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/github-snake.svg"/>
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
 
+<br/>
+
 ---
 
-## 💜 Support My Work
+<!-- ══════════════════════  SUPPORT  ══════════════════════ -->
+
+## `{ support }` &nbsp; Keep the Commits Flowing
 
 <div align="center">
 
-*If my projects have helped you, a coffee keeps the commits flowing ☕*
+<br/>
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/pasanhansaka)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor_on_GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/pasanhansaka)
+```
+  ╔═══════════════════════════════════════════════════════════════╗
+  ║                                                               ║
+  ║   If my work saved you hours of pain — a coffee helps.  ☕   ║
+  ║   If it saved you days — a star helps more.  ⭐              ║
+  ║                                                               ║
+  ╚═══════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+[![Buy Me A Coffee](https://img.shields.io/badge/☕_BUY_ME_A_COFFEE-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/pasanhansaka)
+&nbsp;
+[![GitHub Sponsors](https://img.shields.io/badge/💜_SPONSOR_ON_GITHUB-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/pasanhansaka)
 
 </div>
 
----
+<br/>
+
+<!-- ══════════════════════  FOOTER  ══════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=12" width="100%"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f0c29,50:302b63,100:24243e&section=footer&text=Let%27s+build+something+extraordinary+%F0%9F%9A%80&fontSize=18&fontColor=a78bfa&fontAlignY=50&animation=fadeIn" width="100%" alt="Footer Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=140&color=0:000000,40:0a0025,100:050010&section=footer&text=%5B%20LET'S%20BUILD%20SOMETHING%20EXTRAORDINARY%20%5D&fontSize=18&fontColor=9d6fff&fontAlignY=52&animation=fadeIn" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=12" width="100%"/>
 
 </div>
