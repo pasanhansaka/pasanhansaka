@@ -121,12 +121,14 @@ const pasan: FullStackEngineer = {
   </tr>
   <tr>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48"/><br/><sup><b>MySQL</b></sup></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="48" height="48"/><br/><sup><b>PostgreSQL</b></sup></td>
+    <!-- <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="48" height="48"/><br/><sup><b>PostgreSQL</b></sup></td> -->
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48"/><br/><sup><b>MongoDB</b></sup></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" height="48"/><br/><sup><b>Firebase</b></sup></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48"/><br/><sup><b>Docker</b></sup></td>
+    <!-- <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48"/><br/><sup><b>Docker</b></sup></td> -->
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48"/><br/><sup><b>Linux</b></sup></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48"/><br/><sup><b>Git</b></sup></td>
+    <td align="center" width="100"><br/><sup><b></b></sup></td>
+    <td align="center" width="100"><br/><sup><b></b></sup></td>
   </tr>
   <tr>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48"/><br/><sup><b>GitHub</b></sup></td>
@@ -141,8 +143,10 @@ const pasan: FullStackEngineer = {
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=illustrator&theme=dark" width="48" height="48"/><br/><sup><b>Illustrator</b></sup></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=photoshop&theme=dark" width="48" height="48"/><br/><sup><b>Photoshop</b></sup></td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="48" height="48"/><br/><sup><b>Android</b></sup></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=expo&theme=dark" width="48" height="48"/><br/><sup><b>Expo</b></sup></td>
-    <td colspan="3"></td>
+    <td align="center" width="100"><br/><sup><b></b></sup></td>
+    <td align="center" width="100"><br/><sup><b></b></sup></td>
+    <td align="center" width="100"><br/><sup><b></b></sup></td>
+    <td align="center" width="100"><br/><sup><b></b></sup></td>
   </tr>
 </table>
 </div>
