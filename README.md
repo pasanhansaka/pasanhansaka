@@ -12,7 +12,7 @@
 
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  TYPING  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2200&pause=700&color=C084FC&background=00000000&center=true&vCenter=true&width=780&lines=%E2%9A%A1+SWE+Intern+%40+Synapse+Solutions+%E2%80%94+dwesk+Social+CRM;%F0%9F%94%A5+Meta+Marketing+API+%7C+Spring+MVC+%7C+AngularJS+%7C+MySQL;%F0%9F%8E%93+BSc+(Hons)+Software+Engineering+%E2%80%94+Birmingham+City+University;%F0%9F%9A%80+Open+to%3A+Freelance+%E2%80%A2+Collabs+%E2%80%A2+Open-Source)](https://github.com/pasanhansaka)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2200&pause=700&color=C084FC&background=00000000&center=true&vCenter=true&width=780&lines=%E2%9A%A1+SE+Intern+%40+Synapse+Solutions+%E2%80%94+dwesk+Social+CRM;%F0%9F%94%A5+Meta+Marketing+API+%7C+Spring+MVC+%7C+AngularJS+%7C+MySQL;%F0%9F%8E%93+BSc+(Hons)+Software+Engineering+%E2%80%94+Birmingham+City+University;%F0%9F%9A%80+Open+to%3A+Freelance+%E2%80%A2+Collabs+%E2%80%A2+Open-Source)](https://github.com/pasanhansaka)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="100%"/>
@@ -56,7 +56,7 @@
      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
-<div align="center" style="border-radius:12px;overflow:hidden;display:inline-block;width:55%;"><img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20%20Who Am I&fontSize=22&fontColor=ffffff&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="100%"/></div>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20%20Who Am I&fontSize=22&fontColor=ffffff&fontAlignY=50&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="55%"/>
 </div>
 
 ```typescript
@@ -90,7 +90,7 @@ const pasan: FullStackEngineer = {
 <!-- ████  TECH ARSENAL  ████ -->
 
 <div align="center">
-<div align="center" style="border-radius:12px;overflow:hidden;display:inline-block;width:55%;"><img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%E2%9A%A1%20%20Tech Arsenal&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="100%"/></div>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%E2%9A%A1%20%20Tech Arsenal&fontSize=22&fontColor=ffffff&fontAlignY=50&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="55%"/>
 </div>
 
 <br/>
@@ -153,7 +153,7 @@ const pasan: FullStackEngineer = {
 <!-- ████  PROJECTS — ALTERNATING LADDER  ████ -->
 
 <div align="center">
-<div align="center" style="border-radius:12px;overflow:hidden;display:inline-block;width:55%;"><img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%9A%80%20%20Featured Projects&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="100%"/></div>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%9A%80%20%20Featured Projects&fontSize=22&fontColor=ffffff&fontAlignY=50&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="55%"/>
 </div>
 
 <br/>
@@ -487,7 +487,7 @@ Press any key → instantly see its JS keyCode, key name and event properties. M
 <!-- ████  Stats  ████ -->
 
 <div align="center">
-<div align="center" style="border-radius:12px;overflow:hidden;display:inline-block;width:55%;"><img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%8F%86%20%20Github Stats&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="100%"/></div>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%8F%86%20%20Github Stats&fontSize=22&fontColor=ffffff&fontAlignY=50&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="55%"/>
 </div>
 
 <br/>
@@ -526,8 +526,7 @@ Press any key → instantly see its JS keyCode, key name and event properties. M
 <!-- ████  TROPHIES  ████ -->
 
 <div align="center">
-<div align="center" style="border-radius:12px;overflow:hidden;display:inline-block;width:55%;"><img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%8F%86%20%20Github Trophies&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="100%"/></div>
-
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%8F%86%20%20Github Trophies&fontSize=22&fontColor=ffffff&fontAlignY=50&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="55%"/>
 </div>
 
 <br/>
@@ -547,7 +546,7 @@ Press any key → instantly see its JS keyCode, key name and event properties. M
 <!-- ████  CONTRIBUTION GRAPH  ████ -->
 
 <div align="center">
-<div align="center" style="border-radius:12px;overflow:hidden;display:inline-block;width:55%;"><img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%93%88%20%20Github Contributions Chart&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="100%"/></div>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%93%88%20%20Github Contributions Chart&fontSize=22&fontColor=ffffff&fontAlignY=50&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="55%"/>
 </div>
 
 <br/>
@@ -567,8 +566,7 @@ Press any key → instantly see its JS keyCode, key name and event properties. M
 <!-- ████  SNAKE  ████ -->
 
 <div align="center">
-<div align="center" style="border-radius:12px;overflow:hidden;display:inline-block;width:55%;">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%90%8D%20%20Eating My Git Commits&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%90%8D%20%20Eating My Git Commits&fontSize=22&fontColor=ffffff&fontAlignY=50&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="55%"/>
 </div>
 
 <br/>
@@ -592,8 +590,7 @@ Press any key → instantly see its JS keyCode, key name and event properties. M
 <!-- ████  SUPPORT  ████ -->
 
 <div align="center">
-<div align="center" style="border-radius:12px; overflow:hidden; display:inline-block; width:55%;">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%E2%98%95%20%20Support Me&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%E2%98%95%20%20Support Me&fontSize=22&fontColor=ffffff&fontAlignY=50&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="55%"/>
 </div>
 
 <br/>
