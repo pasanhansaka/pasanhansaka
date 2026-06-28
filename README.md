@@ -1,49 +1,53 @@
+<!-- ═══════════════════════════════════════════════════════════
+     PASAN HANSAKA — GITHUB PROFILE README — FINAL v2026
+     ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    HERO BANNER                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  HERO BANNER  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:050010,35:130030,65:1a0045,100:050010&text=PASAN%20HANSAKA&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=FULL-STACK%20ENGINEER%20%C2%B7%20MOBILE%20DEV%20%C2%B7%20UI%2FUX%20DESIGNER&descSize=15&descAlignY=66&descColor=c084fc&stroke=9333ea&strokeWidth=2&animation=fadeIn" width="100%" alt="Pasan Hansaka"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=46&color=0:1a0045,50:130030,100:050010&text=%E2%9A%A1%20Ship%20fast.%20Design%20beautifully.%20Scale%20infinitely.&fontSize=13&fontColor=94a3b8&fontAlignY=62&stroke=7c3aed&strokeWidth=1" width="100%" alt="Tagline"/>
+<img src="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/main/header.svg" width="100%" alt="Pasan Hansaka — Full-Stack Engineer"/>
+
+<br/><br/>
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  TYPING  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2200&pause=700&color=C084FC&background=00000000&center=true&vCenter=true&width=780&lines=%E2%9A%A1+SWE+Intern+%40+Synapse+Solutions+%E2%80%94+dwesk+Social+CRM;%F0%9F%94%A5+Meta+Marketing+API+%7C+Spring+MVC+%7C+AngularJS+%7C+MySQL;%F0%9F%8E%93+BSc+(Hons)+Software+Engineering+%E2%80%94+Birmingham+City+University;%F0%9F%9A%80+Open+to%3A+Freelance+%E2%80%A2+Collabs+%E2%80%A2+Open-Source)](https://github.com/pasanhansaka)
+
+<br/><br/>
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SOCIALS  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+<a href="https://linkedin.com/in/pasanhansaka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:pasanhansaka31@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://wa.me/940701769147"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>&nbsp;
+<a href="https://youtube.com/@pasanhansaka"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>&nbsp;
+<a href="https://instagram.com/pasanhansaka26"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
+<a href="https://x.com/pasanhansaka03"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>&nbsp;
+<a href="https://facebook.com/pasanhansaka03"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+
+<br/><br/>
+
+![Views](https://komarev.com/ghpvc/?username=pasanhansaka&label=Profile+Views&color=9333ea&style=flat-square)&nbsp;&nbsp;
+![Followers](https://img.shields.io/github/followers/pasanhansaka?label=Followers&style=flat-square&color=9333ea&labelColor=0d0020)&nbsp;&nbsp;
+![Stars](https://img.shields.io/github/stars/pasanhansaka?label=Total+Stars&style=flat-square&color=9333ea&labelColor=0d0020)
 
 </div>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=C084FC&background=00000000&center=true&vCenter=true&multiline=false&width=720&lines=const+pasan+%3D+new+Engineer(%7Bstack%3A+%22Full-Stack%22%7D)%3B;pasan.build(%22scalable+enterprise+systems%22)%3B;pasan.craft(%22pixel-perfect+mobile+apps%22)%3B;pasan.design(%22interfaces+that+feel+alive%22)%3B;%2F%2F+Open+to+collaborate+%F0%9F%9A%80)](https://github.com/pasanhansaka)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pasanhansaka)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thornsolution@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/940701769147)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pasanhansaka)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pasanhansaka26)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pasanhansaka03)
-[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/pasanhansaka03)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=pasanhansaka&label=PROFILE+VIEWS&color=9333ea&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/pasanhansaka?label=Followers&style=for-the-badge&color=9333ea&labelColor=1a0045)
-![Stars](https://img.shields.io/github/stars/pasanhansaka?label=Total+Stars&style=for-the-badge&color=9333ea&labelColor=1a0045)
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
 </div>
 
 ---
 
-## 🧬 `whoami`
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION TITLE STYLE  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+     Each title = capsule-render image (renders as actual styled graphic)
+
+     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20%20whoami&fontSize=22&fontColor=ffffff&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="55%"/>
+</div>
 
 ```typescript
 const pasan: FullStackEngineer = {
@@ -68,301 +72,499 @@ const pasan: FullStackEngineer = {
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
 </div>
 
 ---
 
-## 🛠️ Tech Arsenal
+<!-- ████  TECH ARSENAL  ████ -->
 
 <div align="center">
-
-### ◆ Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### ◆ Frontend
-![React](https://img.shields.io/badge/React-1a0045?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![AngularJS](https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angularjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ◆ Mobile
-![React Native](https://img.shields.io/badge/React_Native-1a0045?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### ◆ Backend & Enterprise
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-E4002B?style=for-the-badge&logo=jakartaee&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Meta API](https://img.shields.io/badge/Meta_Marketing_API-0866FF?style=for-the-badge&logo=meta&logoColor=white)
-
-### ◆ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### ◆ DevOps & Tooling
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-### ◆ Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
+<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%E2%9A%A1%20%20tech_arsenal&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="55%"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
+
+<table>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48"/><br/><sup><b>Java</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="48" height="48"/><br/><sup><b>JavaScript</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="48" height="48"/><br/><sup><b>TypeScript</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48"/><br/><sup><b>HTML5</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48"/><br/><sup><b>CSS3</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" height="48"/><br/><sup><b>PHP</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48"/><br/><sup><b>React</b></sup></td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48"/><br/><sup><b>Next.js</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48"/><br/><sup><b>Tailwind</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" height="48"/><br/><sup><b>Bootstrap</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=angular&theme=dark" width="48" height="48"/><br/><sup><b>AngularJS</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48"/><br/><sup><b>Spring Boot</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48"/><br/><sup><b>Node.js</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48"/><br/><sup><b>Express</b></sup></td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48"/><br/><sup><b>MySQL</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="48" height="48"/><br/><sup><b>PostgreSQL</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48"/><br/><sup><b>MongoDB</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" height="48"/><br/><sup><b>Firebase</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48"/><br/><sup><b>Docker</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48"/><br/><sup><b>Linux</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48"/><br/><sup><b>Git</b></sup></td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48"/><br/><sup><b>GitHub</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=maven&theme=dark" width="48" height="48"/><br/><sup><b>Maven</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48"/><br/><sup><b>Postman</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48"/><br/><sup><b>VS Code</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=idea&theme=dark" width="48" height="48"/><br/><sup><b>IntelliJ</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48"/><br/><sup><b>Figma</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=xd&theme=dark" width="48" height="48"/><br/><sup><b>Adobe XD</b></sup></td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=illustrator&theme=dark" width="48" height="48"/><br/><sup><b>Illustrator</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=photoshop&theme=dark" width="48" height="48"/><br/><sup><b>Photoshop</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="48" height="48"/><br/><sup><b>Android</b></sup></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=expo&theme=dark" width="48" height="48"/><br/><sup><b>Expo</b></sup></td>
+    <td colspan="3"></td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<!-- ████  PROJECTS — ALTERNATING LADDER  ████ -->
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%9A%80%20%20featured_projects&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="55%"/>
+</div>
+
+<br/>
+
+<!-- ══════════════  ROW 1 — LEFT  ══════════════ -->
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="48%">
 
-<h3>📥 AnyDown — Multi-Platform Downloader</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:1a0040,100:0d0025&text=%F0%9F%93%A5%20%20AnyDown&fontSize=17&fontColor=c084fc&fontAlignY=68&stroke=9333ea&strokeWidth=0" width="100%"/>
 
-Download from YouTube, Facebook, Instagram & TikTok. Full-stack PWA with platform-aware themes, format selection and MP3 extraction via yt-dlp + FFmpeg.
+**Multi-Platform Video & Audio Downloader**
 
-[![View Repo](https://img.shields.io/badge/View_Repo-%E2%86%92-9333ea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasanhansaka/AnyDown)
+Download from YouTube, Facebook, Instagram & TikTok in one click. Full-stack PWA with platform-aware themes, format chooser and MP3 extraction via yt-dlp + FFmpeg. Supports 1,000+ platforms.
 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-&nbsp;⭐ **5 stars**
+![yt-dlp](https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white)
+
+⭐ **5 stars** &nbsp;·&nbsp; [![View →](https://img.shields.io/badge/View_Repo-9333ea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasanhansaka/AnyDown)
 
 </td>
-<td width="50%" valign="top">
+<td valign="middle" width="4%" align="center">
 
-<h3>🦍 GorillaFit — Gym Landing Page</h3>
+```
+◈
+│
+│
+│
+│
+│
+│
+```
 
-Blazing-fast gym site with React 19, Vite, Tailwind CSS and Framer Motion animations. EmailJS contact form, deployed on GitHub Pages.
+</td>
+<td valign="top" width="48%">
+<br/><br/>
 
-[![View Repo](https://img.shields.io/badge/View_Repo-%E2%86%92-9333ea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasanhansaka/GorillaFit)
+> 🏆 **Top Starred Project**
+>
+> Full-stack PWA architecture with a clean platform-aware UI — dark/light themes switch based on the source platform. FFmpeg handles audio extraction on the server side.
+
+</td>
+</tr>
+
+<!-- ══════════════  ROW 2 — RIGHT  ══════════════ -->
+<tr>
+<td valign="top" width="48%">
+<br/><br/>
+
+> 💨 **React 19 + Vite + Framer Motion**
+>
+> Full responsive layout with smooth scroll-triggered section transitions, animated hero, and an EmailJS-powered contact form. Deployed and live on GitHub Pages.
+
+</td>
+<td valign="middle" width="4%" align="center">
+
+```
+│
+│
+◈
+│
+│
+│
+│
+```
+
+</td>
+<td valign="top" width="48%">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:1a0040,100:0d0025&text=%F0%9F%A6%8D%20%20GorillaFit&fontSize=17&fontColor=c084fc&fontAlignY=68&stroke=9333ea&strokeWidth=0" width="100%"/>
+
+**Modern Gym Landing Page**
+
+Blazing-fast gym site with React 19, Vite, Tailwind CSS and Framer Motion animations. Full responsive design, smooth transitions, and EmailJS-powered contact form.
 
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=black)
-&nbsp;⭐ **1 star**
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+⭐ **1 star** &nbsp;·&nbsp; [![View →](https://img.shields.io/badge/View_Repo-9333ea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasanhansaka/GorillaFit)
 
 </td>
 </tr>
+
+<!-- ══════════════  ROW 3 — LEFT  ══════════════ -->
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="48%">
 
-<h3>💬 HelaChat — Real-Time Chat App</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:1a0040,100:0d0025&text=%F0%9F%92%AC%20%20HelaChat&fontSize=17&fontColor=c084fc&fontAlignY=68&stroke=9333ea&strokeWidth=0" width="100%"/>
 
-Cross-platform mobile messaging with React Native & Firebase. Real-time sync, clean UI, smooth UX on iOS and Android.
+**Real-Time Cross-Platform Chat App**
 
-[![View Repo](https://img.shields.io/badge/View_Repo-%E2%86%92-9333ea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasanhansaka/HelaChat)
+Mobile messaging built with React Native & Firebase. Real-time message sync, user authentication, clean minimal UI — buttery smooth on both iOS and Android.
 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![RN](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
+[![View →](https://img.shields.io/badge/View_Repo-9333ea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasanhansaka/HelaChat)
+
 </td>
-<td width="50%" valign="top">
+<td valign="middle" width="4%" align="center">
 
-<h3>🏥 GlobeMed — Hospital Management</h3>
+```
+│
+│
+◈
+│
+│
+│
+│
+```
 
-Enterprise-grade Java system managing full hospital operations. Built on solid OOP design patterns — scalable, maintainable, production-ready.
+</td>
+<td valign="top" width="48%">
+<br/><br/>
 
-[![View Repo](https://img.shields.io/badge/View_Repo-%E2%86%92-9333ea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasanhansaka/GlobeMed-Hospital-Management-System)
+> 📱 **Cross-Platform iOS & Android**
+>
+> Firebase Realtime Database for instant message delivery. Full auth flow with clean UX — designed to feel native on both platforms despite one shared codebase.
+
+</td>
+</tr>
+
+<!-- ══════════════  ROW 4 — RIGHT  ══════════════ -->
+<tr>
+<td valign="top" width="48%">
+<br/><br/>
+
+> 🏥 **Enterprise OOP Architecture**
+>
+> Built around solid OOP design patterns — Factory, Singleton, Observer. Manages patient records, doctor schedules, appointment booking and billing in a single system.
+
+</td>
+<td valign="middle" width="4%" align="center">
+
+```
+│
+│
+◈
+│
+│
+│
+│
+```
+
+</td>
+<td valign="top" width="48%">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:1a0040,100:0d0025&text=%F0%9F%8F%A5%20%20GlobeMed&fontSize=17&fontColor=c084fc&fontAlignY=68&stroke=9333ea&strokeWidth=0" width="100%"/>
+
+**Enterprise Hospital Management System**
+
+Full hospital operations platform built on Java OOP design patterns. Manages patients, doctors, appointments and billing at enterprise scale — production-ready.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP_Patterns-7c3aed?style=flat-square)
-&nbsp;⭐ **1 star**
+
+⭐ **1 star** &nbsp;·&nbsp; [![View →](https://img.shields.io/badge/View_Repo-9333ea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasanhansaka/GlobeMed-Hospital-Management-System)
 
 </td>
 </tr>
+
+<!-- ══════════════  ROW 5 — LEFT  ══════════════ -->
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="48%">
 
-<h3>🛒 GreenBasket — Fresh Produce Store</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:1a0040,100:0d0025&text=%F0%9F%9B%92%20%20GreenBasket&fontSize=17&fontColor=c084fc&fontAlignY=68&stroke=9333ea&strokeWidth=0" width="100%"/>
 
-Full-stack online grocery with smart filtering, category browsing and a seamless end-to-end shopping experience.
+**Fresh Produce E-Commerce Store**
 
-[![View Repo](https://img.shields.io/badge/View_Repo-%E2%86%92-9333ea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasanhansaka/GreenBasket-Fresh-Produce-Online-Store)
+Full-stack online grocery with smart product filtering, category browsing, cart management and a seamless end-to-end shopping experience.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
+[![View →](https://img.shields.io/badge/View_Repo-9333ea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasanhansaka/GreenBasket-Fresh-Produce-Online-Store)
+
 </td>
-<td width="50%" valign="top">
+<td valign="middle" width="4%" align="center">
 
-<h3>🏦 Hela Bank — Core Banking System</h3>
+```
+│
+│
+◈
+│
+│
+│
+│
+```
 
-Secure Java banking platform with transaction management and clean enterprise architecture. Security-first design.
+</td>
+<td valign="top" width="48%">
+<br/><br/>
 
-[![View Repo](https://img.shields.io/badge/View_Repo-%E2%86%92-9333ea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasanhansaka/Hela_Bank)
+> 🛍️ **Full-Stack E-Commerce**
+>
+> Category filtering, product search, and a cart system built from scratch. Clean, minimal UI focused on making grocery browsing feel effortless and fast.
+
+</td>
+</tr>
+
+<!-- ══════════════  ROW 6 — RIGHT  ══════════════ -->
+<tr>
+<td valign="top" width="48%">
+<br/><br/>
+
+> 🏦 **Security-First Banking Core**
+>
+> Transaction management with proper account isolation, balance tracking and audit logging. Clean enterprise Java architecture — zero shortcuts on security.
+
+</td>
+<td valign="middle" width="4%" align="center">
+
+```
+│
+│
+◈
+│
+│
+│
+│
+```
+
+</td>
+<td valign="top" width="48%">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:1a0040,100:0d0025&text=%F0%9F%8F%A6%20%20Hela+Bank&fontSize=17&fontColor=c084fc&fontAlignY=68&stroke=9333ea&strokeWidth=0" width="100%"/>
+
+**Secure Core Banking System**
+
+Java banking platform with full account management, transaction processing and clean enterprise architecture. Security-first from the ground up.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+[![View →](https://img.shields.io/badge/View_Repo-9333ea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasanhansaka/Hela_Bank)
+
 </td>
 </tr>
+
+<!-- ══════════════  ROW 7 — LEFT  ══════════════ -->
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="48%">
 
-<h3>🎮 2D Adventure Game — Vanilla JS</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:1a0040,100:0d0025&text=%F0%9F%8E%AE%20%202D+Adventure+Game&fontSize=17&fontColor=c084fc&fontAlignY=68&stroke=9333ea&strokeWidth=0" width="100%"/>
 
-Browser-based game with physics, collision detection, DOM manipulation and creative interactive UI — zero frameworks, pure skill.
+**Browser-Based Game — Pure Vanilla JS**
 
-[![View Repo](https://img.shields.io/badge/View_Repo-%E2%86%92-9333ea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasanhansaka/2D-Adventure-Game)
+Physics, collision detection, DOM manipulation and creative interactive UI — zero frameworks, zero dependencies. Pure engineering skill at work.
 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+[![View →](https://img.shields.io/badge/View_Repo-9333ea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasanhansaka/2D-Adventure-Game)
+
 </td>
-<td width="50%" valign="top">
+<td valign="middle" width="4%" align="center">
 
-<h3>⌨️ Key Code Finder</h3>
+```
+│
+│
+◈
+│
+│
+│
+│
+```
 
-Press any key → instantly see its JS keyCode, key name and event properties. Every frontend dev needs this.
+</td>
+<td valign="top" width="48%">
+<br/><br/>
 
-[![View Repo](https://img.shields.io/badge/View_Repo-%E2%86%92-9333ea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasanhansaka/Key-Code-Finder-Interactive-Keyboard-Code-Helper)
+> 🎯 **Zero Dependencies · Pure JS**
+>
+> Built entirely with vanilla JavaScript — no game engine, no libraries. Collision physics, sprite movement, and level logic all hand-coded from scratch. Raw skill flex.
+
+</td>
+</tr>
+
+<!-- ══════════════  ROW 8 — RIGHT  ══════════════ -->
+<tr>
+<td valign="top" width="48%">
+<br/><br/>
+
+> ⌨️ **Instant KeyCode Inspector**
+>
+> The tool every frontend dev googles at least once a week. Press any key → instantly see its JS keyCode, `key` name, `code`, and event properties. Minimal and fast.
+
+</td>
+<td valign="middle" width="4%" align="center">
+
+```
+│
+│
+◈
+```
+
+</td>
+<td valign="top" width="48%">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:1a0040,100:0d0025&text=%E2%8C%A8%EF%B8%8F%20%20Key+Code+Finder&fontSize=17&fontColor=c084fc&fontAlignY=68&stroke=9333ea&strokeWidth=0" width="100%"/>
+
+**Interactive Keyboard Code Inspector**
+
+Press any key → instantly see its JS keyCode, key name and event properties. Minimal, fast, exactly what devs need at least once a week.
 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+[![View →](https://img.shields.io/badge/View_Repo-9333ea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasanhansaka/Key-Code-Finder-Interactive-Keyboard-Code-Helper)
+
 </td>
 </tr>
 </table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
+</div>
+
+---
+
+<br/>
+
+<!-- ████  TROPHIES  ████ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%8F%86%20%20trophies&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="55%"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pasanhansaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0020&title_color=c084fc&icon_color=9333ea&text_color=e2e8f0&ring_color=9333ea&include_all_commits=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pasanhansaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0020&title_color=c084fc&text_color=e2e8f0&langs_count=8" height="170"/>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=pasanhansaka&theme=tokyonight&hide_border=true&background=0D0020&ring=9333ea&fire=c084fc&currStreakLabel=c084fc&sideLabels=c084fc&dates=94a3b8&sideNums=c084fc&currStreakNum=ffffff"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com?user=pasanhansaka&theme=tokyonight&hide_border=true&ring=9333ea&fire=c084fc&currStreakLabel=0D0020"/>
-  <img src="https://streak-stats.demolab.com?user=pasanhansaka&theme=tokyonight&hide_border=true&background=0D0020&ring=9333ea&fire=c084fc&currStreakLabel=c084fc&sideLabels=c084fc&dates=94a3b8&sideNums=c084fc&currStreakNum=ffffff"/>
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
 <img src="https://github-profile-trophy-liard.vercel.app/?username=pasanhansaka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%"/>
+</div>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
+</div>
+
+---
+
+<br/>
+
+<!-- ████  CONTRIBUTION GRAPH  ████ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%93%88%20%20contribution_activity&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="55%"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pasanhansaka&theme=tokyo-night&hide_border=true&bg_color=0d0020&color=c084fc&line=9333ea&point=e879f9&area=true&area_color=3b0764&custom_title=Pasan's%20Contribution%20Heatmap" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pasanhansaka&theme=tokyo-night&hide_border=true&bg_color=0D0020&color=c084fc&line=9333ea&point=e879f9&area=true&area_color=3b0764&custom_title=Pasan%27s+Contribution+Graph" width="100%" alt="Contribution Graph"/>
-
-</div>
 
 <br/>
 
+<!-- ████  SNAKE  ████ -->
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%90%8D%20%20eating_my_commits&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="55%"/>
 </div>
 
----
-
-## 🐍 Contribution Snake
+<br/>
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/github-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/github-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/output/github-snake-dark.svg" width="100%"/>
 </picture>
+</div>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
+</div>
+
+---
+
+<br/>
+
+<!-- ████  SUPPORT  ████ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%E2%98%95%20%20support&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="55%"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
+
+*If my work saved you hours — a coffee keeps the commits flowing ✨*
+
+<br/>
+
+<a href="https://www.buymeacoffee.com/pasanhansaka"><img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>&nbsp;&nbsp;
+<a href="https://github.com/sponsors/pasanhansaka"><img src="https://img.shields.io/badge/💜_Sponsor_on_GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
 </div>
 
 ---
 
-## 💜 Support My Work
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  FOOTER SVG  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
-
-*If my projects have helped you, a coffee keeps the commits flowing ☕*
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/pasanhansaka)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor_on_GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/pasanhansaka)
-
-</div>
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    FOOTER BANNER                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:050010,50:1a0045,100:050010&text=LET'S%20BUILD%20SOMETHING%20EXTRAORDINARY%20%F0%9F%9A%80&fontSize=24&fontColor=ffffff&fontAlignY=40&desc=OPEN%20TO%20FREELANCE%20%C2%B7%20COLLABORATIONS%20%C2%B7%20OPEN-SOURCE&descSize=13&descAlignY=65&descColor=c084fc&stroke=9333ea&strokeWidth=2&animation=fadeIn" width="100%" alt="Footer Banner"/>
+<img src="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/main/footer.svg" width="100%" alt="Let's build something extraordinary"/>
 </div>
