@@ -12,7 +12,7 @@
 
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  TYPING  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2200&pause=700&color=C084FC&background=00000000&center=true&vCenter=true&width=780&lines=%E2%9A%A1+SE+Intern+%40+Synapse+Solutions+%E2%80%94+dwesk+Social+CRM;%F0%9F%94%A5+Meta+Marketing+API+%7C+Spring+MVC+%7C+AngularJS+%7C+MySQL;%F0%9F%8E%93+BSc+(Hons)+Software+Engineering+%E2%80%94+Birmingham+City+University;%F0%9F%9A%80+Open+to%3A+Freelance+%E2%80%A2+Collabs+%E2%80%A2+Open-Source)](https://github.com/pasanhansaka)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2200&pause=700&color=C084FC&background=00000000&center=true&vCenter=true&width=780&lines=%E2%9A%A1+SE+Intern+%40+Synapse+Solutions;%F0%9F%94%A5+Meta+Marketing+API+%7C+Spring+MVC+%7C+AngularJS+%7C+MySQL;%F0%9F%8E%93+BSc+(Hons)+Software+Engineering+%E2%80%94+Birmingham+City+University;%F0%9F%9A%80+Open+to%3A+Freelance+%E2%80%A2+Collabs+%E2%80%A2+Open-Source)](https://github.com/pasanhansaka)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="100%"/>
