@@ -1,0 +1,86 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#000000"/>
+      <stop offset="35%"  stop-color="#0a0015"/>
+      <stop offset="65%"  stop-color="#130030"/>
+      <stop offset="100%" stop-color="#050010"/>
+    </linearGradient>
+    <linearGradient id="lineG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#00000000"/>
+      <stop offset="25%"  stop-color="#9333ea"/>
+      <stop offset="50%"  stop-color="#c084fc"/>
+      <stop offset="75%"  stop-color="#9333ea"/>
+      <stop offset="100%" stop-color="#00000000"/>
+    </linearGradient>
+    <radialGradient id="cg" cx="50%" cy="48%" r="45%">
+      <stop offset="0%"   stop-color="#6d28d9" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="ng">
+      <feGaussianBlur stdDeviation="10" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="sg">
+      <feGaussianBlur stdDeviation="3.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="45" height="45" patternUnits="userSpaceOnUse">
+      <path d="M45,0 L0,0 0,45" fill="none" stroke="#7c3aed" stroke-width="0.4" opacity="0.18"/>
+    </pattern>
+    <pattern id="scan" width="1" height="4" patternUnits="userSpaceOnUse">
+      <rect width="900" height="1" y="3" fill="#ffffff" opacity="0.018"/>
+    </pattern>
+    <clipPath id="clip"><rect width="900" height="300"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="900" height="300" fill="url(#bg)"/>
+    <rect width="900" height="300" fill="url(#grid)"/>
+    <ellipse cx="450" cy="150" rx="420" ry="190" fill="url(#cg)"/>
+    <rect width="900" height="300" fill="url(#scan)"/>
+    <rect x="0" y="0"   width="900" height="2" fill="url(#lineG)" opacity="0.95"/>
+    <rect x="0" y="298" width="900" height="2" fill="url(#lineG)" opacity="0.95"/>
+    <path d="M0,36 L0,0 L36,0"     fill="none" stroke="#c084fc" stroke-width="2" opacity="0.85"/>
+    <path d="M864,0 L900,0 L900,36" fill="none" stroke="#c084fc" stroke-width="2" opacity="0.85"/>
+    <path d="M0,264 L0,300 L36,300" fill="none" stroke="#c084fc" stroke-width="2" opacity="0.85"/>
+    <path d="M864,300 L900,300 L900,264" fill="none" stroke="#c084fc" stroke-width="2" opacity="0.85"/>
+    <circle cx="24" cy="22" r="5.5" fill="#22c55e">
+      <animate attributeName="opacity" values="1;0.15;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="37" y="27" font-family="'Courier New',monospace" font-size="10.5" fill="#4ade80" letter-spacing="1.8" opacity="0.92">ONLINE · BUILDING · OPEN TO COLLAB</text>
+    <text x="850" y="27" font-family="Arial" font-size="16">🇱🇰</text>
+    <text x="14" y="62"  font-family="'Courier New',monospace" font-size="11" fill="#9333ea" opacity="0.30">const build = () =&gt; {<animate attributeName="opacity" values="0.30;0.58;0.30" dur="4.2s" repeatCount="indefinite"/></text>
+    <text x="26" y="78"  font-family="'Courier New',monospace" font-size="11" fill="#7c3aed" opacity="0.24">  deploy(prod);<animate attributeName="opacity" values="0.24;0.50;0.24" dur="5.1s" begin="0.6s" repeatCount="indefinite"/></text>
+    <text x="14" y="94"  font-family="'Courier New',monospace" font-size="11" fill="#9333ea" opacity="0.20">}</text>
+    <text x="10" y="132" font-family="'Courier New',monospace" font-size="10" fill="#6d28d9" opacity="0.28">@SpringBootApplication<animate attributeName="opacity" values="0.28;0.54;0.28" dur="6s" begin="1s" repeatCount="indefinite"/></text>
+    <text x="10" y="148" font-family="'Courier New',monospace" font-size="10" fill="#7c3aed" opacity="0.22">public class Main { }</text>
+    <text x="10" y="200" font-family="'Courier New',monospace" font-size="10" fill="#9333ea" opacity="0.22">npm run build ✓<animate attributeName="opacity" values="0.22;0.45;0.22" dur="3.8s" begin="2s" repeatCount="indefinite"/></text>
+    <text x="10" y="216" font-family="'Courier New',monospace" font-size="10" fill="#7c3aed" opacity="0.18">git push origin main</text>
+    <text x="10" y="260" font-family="'Courier New',monospace" font-size="10" fill="#9333ea" opacity="0.20">SELECT * FROM users;<animate attributeName="opacity" values="0.20;0.42;0.20" dur="5s" begin="0.9s" repeatCount="indefinite"/></text>
+    <text x="10" y="276" font-family="'Courier New',monospace" font-size="10" fill="#6d28d9" opacity="0.16">WHERE active = true;</text>
+    <text x="672" y="60"  font-family="'Courier New',monospace" font-size="11" fill="#9333ea" opacity="0.26">import React from 'react';<animate attributeName="opacity" values="0.26;0.52;0.26" dur="4.5s" begin="1.2s" repeatCount="indefinite"/></text>
+    <text x="685" y="104" font-family="'Courier New',monospace" font-size="10" fill="#6d28d9" opacity="0.28">useEffect(() =&gt; {<animate attributeName="opacity" values="0.28;0.50;0.28" dur="5s" begin="0.4s" repeatCount="indefinite"/></text>
+    <text x="698" y="120" font-family="'Courier New',monospace" font-size="10" fill="#9333ea" opacity="0.22">  fetchData();</text>
+    <text x="685" y="136" font-family="'Courier New',monospace" font-size="10" fill="#7c3aed" opacity="0.18">}, []);</text>
+    <text x="680" y="200" font-family="'Courier New',monospace" font-size="10" fill="#9333ea" opacity="0.24">mvn clean install<animate attributeName="opacity" values="0.24;0.48;0.24" dur="4.2s" begin="1.5s" repeatCount="indefinite"/></text>
+    <text x="694" y="216" font-family="'Courier New',monospace" font-size="10" fill="#4ade80" opacity="0.20">BUILD SUCCESS ✓</text>
+    <text x="680" y="260" font-family="'Courier New',monospace" font-size="10" fill="#9333ea" opacity="0.20">docker compose up -d<animate attributeName="opacity" values="0.20;0.40;0.20" dur="6s" begin="0.7s" repeatCount="indefinite"/></text>
+    <circle cx="84"  cy="162" r="2"   fill="#c084fc" opacity="0.55"><animate attributeName="opacity" values="0.55;1;0.55" dur="2.5s" repeatCount="indefinite"/><animate attributeName="cy" values="162;150;162" dur="4.2s" repeatCount="indefinite"/></circle>
+    <circle cx="818" cy="108" r="2.2" fill="#9333ea"  opacity="0.6"><animate attributeName="opacity"  values="0.6;1;0.6"     dur="3.2s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="cy" values="108;95;108" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="158" cy="232" r="1.6" fill="#7c3aed"  opacity="0.45"><animate attributeName="opacity" values="0.45;0.88;0.45" dur="3.6s" begin="1s"   repeatCount="indefinite"/></circle>
+    <circle cx="752" cy="210" r="1.6" fill="#c084fc"  opacity="0.40"><animate attributeName="opacity" values="0.40;0.82;0.40" dur="2.9s" begin="0.8s" repeatCount="indefinite"/></circle>
+    <circle cx="450" cy="20"  r="1.8" fill="#9333ea"  opacity="0.50"><animate attributeName="opacity" values="0.50;1;0.50"    dur="4s"   begin="0.3s" repeatCount="indefinite"/></circle>
+    <circle cx="338" cy="280" r="1.2" fill="#c084fc"  opacity="0.40"><animate attributeName="opacity" values="0.40;0.90;0.40" dur="3.1s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="562" cy="278" r="1.2" fill="#7c3aed"  opacity="0.45"><animate attributeName="opacity" values="0.45;0.88;0.45" dur="3.8s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle cx="242" cy="42"  r="1.1" fill="#9333ea"  opacity="0.30"><animate attributeName="opacity" values="0.30;0.65;0.30" dur="5s"   begin="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="658" cy="40"  r="1.1" fill="#c084fc"  opacity="0.30"><animate attributeName="opacity" values="0.30;0.65;0.30" dur="4.3s" begin="1.8s" repeatCount="indefinite"/></circle>
+    <rect x="110" y="90" width="680" height="1" fill="url(#lineG)" opacity="0.6"/>
+    <text x="453" y="165" font-family="'Arial Black','Impact',sans-serif" font-size="68" font-weight="900" text-anchor="middle" fill="#2e0a5e" opacity="0.60">PASAN HANSAKA</text>
+    <text x="450" y="162" font-family="'Arial Black','Impact',sans-serif" font-size="68" font-weight="900" text-anchor="middle" fill="#c084fc" filter="url(#ng)" opacity="0.28">PASAN HANSAKA</text>
+    <text x="450" y="162" font-family="'Arial Black','Impact',sans-serif" font-size="68" font-weight="900" text-anchor="middle" fill="#ffffff" letter-spacing="2">PASAN HANSAKA</text>
+    <rect x="110" y="172" width="680" height="1" fill="url(#lineG)" opacity="0.6"/>
+    <text x="450" y="202" font-family="'Courier New',monospace" font-size="13.5" text-anchor="middle" fill="#c084fc" letter-spacing="4" opacity="0.96" filter="url(#sg)">FULL-STACK ENGINEER  ·  MOBILE DEV  ·  UI/UX DESIGNER</text>
+    <text x="450" y="228" font-family="'Courier New',monospace" font-size="11.5" text-anchor="middle" fill="#94a3b8" letter-spacing="2" opacity="0.72">Ship fast. Design beautifully. Scale infinitely.</text>
+    <text x="450" y="268" font-family="'Courier New',monospace" font-size="11" text-anchor="middle" fill="#7c3aed" letter-spacing="3" opacity="0.80">📍 KALUTARA, SRI LANKA</text>
+  </g>
+</svg>

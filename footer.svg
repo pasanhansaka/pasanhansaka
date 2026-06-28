@@ -1,0 +1,70 @@
+<svg width="900" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#050010"/>
+      <stop offset="35%"  stop-color="#130030"/>
+      <stop offset="65%"  stop-color="#0a0015"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+    <linearGradient id="flineG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#00000000"/>
+      <stop offset="25%"  stop-color="#9333ea"/>
+      <stop offset="50%"  stop-color="#c084fc"/>
+      <stop offset="75%"  stop-color="#9333ea"/>
+      <stop offset="100%" stop-color="#00000000"/>
+    </linearGradient>
+    <radialGradient id="fcg" cx="50%" cy="50%" r="55%">
+      <stop offset="0%"   stop-color="#6d28d9" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="fsg">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="fgrid" width="45" height="45" patternUnits="userSpaceOnUse">
+      <path d="M45,0 L0,0 0,45" fill="none" stroke="#7c3aed" stroke-width="0.4" opacity="0.15"/>
+    </pattern>
+    <clipPath id="fclip"><rect width="900" height="170"/></clipPath>
+  </defs>
+  <g clip-path="url(#fclip)">
+    <rect width="900" height="170" fill="url(#fbg)"/>
+    <rect width="900" height="170" fill="url(#fgrid)"/>
+    <ellipse cx="450" cy="85" rx="420" ry="120" fill="url(#fcg)"/>
+    <rect x="0" y="0"   width="900" height="2" fill="url(#flineG)" opacity="0.95"/>
+    <rect x="0" y="168" width="900" height="2" fill="url(#flineG)" opacity="0.95"/>
+    <path d="M0,30 L0,0 L30,0"        fill="none" stroke="#c084fc" stroke-width="2" opacity="0.8"/>
+    <path d="M870,0 L900,0 L900,30"   fill="none" stroke="#c084fc" stroke-width="2" opacity="0.8"/>
+    <path d="M0,140 L0,170 L30,170"   fill="none" stroke="#c084fc" stroke-width="2" opacity="0.8"/>
+    <path d="M870,170 L900,170 L900,140" fill="none" stroke="#c084fc" stroke-width="2" opacity="0.8"/>
+
+    <!-- ghost code accents, sparser than header -->
+    <text x="16" y="40" font-family="'Courier New',monospace" font-size="10" fill="#7c3aed" opacity="0.20">return &lt;Footer /&gt;;<animate attributeName="opacity" values="0.20;0.42;0.20" dur="5s" repeatCount="indefinite"/></text>
+    <text x="700" y="40" font-family="'Courier New',monospace" font-size="10" fill="#9333ea" opacity="0.20">EXIT_CODE: 0 ✓<animate attributeName="opacity" values="0.20;0.42;0.20" dur="4.6s" begin="1s" repeatCount="indefinite"/></text>
+
+    <!-- floating particles -->
+    <circle cx="120" cy="60"  r="1.6" fill="#c084fc" opacity="0.4"><animate attributeName="opacity" values="0.4;0.85;0.4" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="780" cy="120" r="1.8" fill="#9333ea" opacity="0.45"><animate attributeName="opacity" values="0.45;0.9;0.45" dur="3.9s" begin="0.7s" repeatCount="indefinite"/></circle>
+    <circle cx="450" cy="20"  r="1.4" fill="#7c3aed" opacity="0.4"><animate attributeName="opacity" values="0.4;0.8;0.4" dur="4.2s" begin="1.3s" repeatCount="indefinite"/></circle>
+
+    <!-- status -->
+    <circle cx="24" cy="22" r="5" fill="#9333ea">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="36" y="26" font-family="'Courier New',monospace" font-size="10" fill="#c084fc" letter-spacing="1.6" opacity="0.85">THANKS FOR STOPPING BY</text>
+    <text x="850" y="26" font-family="Arial" font-size="14">🇱🇰</text>
+
+    <!-- divider -->
+    <rect x="160" y="55" width="580" height="1" fill="url(#flineG)" opacity="0.55"/>
+
+    <!-- main CTA -->
+    <text x="450" y="98" font-family="'Arial Black','Impact',sans-serif" font-size="26" font-weight="900" text-anchor="middle" fill="#ffffff" letter-spacing="1" filter="url(#fsg)">LET'S BUILD SOMETHING EXTRAORDINARY 🚀</text>
+
+    <!-- sub line -->
+    <text x="450" y="126" font-family="'Courier New',monospace" font-size="12" text-anchor="middle" fill="#c084fc" letter-spacing="2.5" opacity="0.9">OPEN TO FREELANCE · COLLABORATIONS · OPEN-SOURCE</text>
+
+    <!-- divider -->
+    <rect x="160" y="140" width="580" height="1" fill="url(#flineG)" opacity="0.55"/>
+
+    <text x="450" y="158" font-family="'Courier New',monospace" font-size="10" text-anchor="middle" fill="#6d28d9" letter-spacing="2" opacity="0.7">© 2026 PASAN HANSAKA · CRAFTED WITH ☕ AND PURPLE PIXELS</text>
+  </g>
+</svg>
