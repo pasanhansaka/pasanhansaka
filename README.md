@@ -4,14 +4,14 @@
 <!--                    HERO BANNER                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050010,35:130030,65:1a0045,100:050010&text=Pasan%20Hansaka&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%E2%80%93Stack%20Engineer%20%E2%80%A2%20Mobile%20Developer%20%E2%80%A2%20UI%2FUX%20Designer&descSize=17&descAlignY=58&descColor=c084fc&stroke=9333ea&strokeWidth=1.5" width="100%" alt="Hero Banner" style="display:block;margin-bottom:-6px"/>
-<img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=0:1a0045,50:130030,100:050010&text=Building%20Things%20That%20Matter&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=44&desc=HTML%20%E2%80%A2%20CSS%20%E2%80%A2%20JS%20%E2%80%A2%20PHP%20%E2%80%A2%20Java%20%E2%80%A2%20React%20%E2%80%A2%20Node%20%E2%80%A2%20Next.js&descSize=15&descAlignY=68&descColor=c084fc&stroke=9333ea&strokeWidth=1" width="100%" alt="Venom Bubble"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:050010,35:130030,65:1a0045,100:050010&text=PASAN%20HANSAKA&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=FULL-STACK%20ENGINEER%20%C2%B7%20MOBILE%20DEV%20%C2%B7%20UI%2FUX%20DESIGNER&descSize=15&descAlignY=66&descColor=c084fc&stroke=9333ea&strokeWidth=2&animation=fadeIn" width="100%" alt="Pasan Hansaka"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=46&color=0:1a0045,50:130030,100:050010&text=%E2%9A%A1%20Ship%20fast.%20Design%20beautifully.%20Scale%20infinitely.&fontSize=13&fontColor=94a3b8&fontAlignY=62&stroke=7c3aed&strokeWidth=1" width="100%" alt="Tagline"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&multiline=false&width=720&lines=const+pasan+%3D+new+Engineer(%7Bstack%3A+%22Full-Stack%22%7D)%3B;pasan.build(%22scalable+enterprise+systems%22)%3B;pasan.craft(%22pixel-perfect+mobile+apps%22)%3B;pasan.design(%22interfaces+that+feel+alive%22)%3B;%2F%2F+Open+to+collaborate+%F0%9F%9A%80)](https://github.com/pasanhansaka)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=C084FC&background=00000000&center=true&vCenter=true&multiline=false&width=720&lines=const+pasan+%3D+new+Engineer(%7Bstack%3A+%22Full-Stack%22%7D)%3B;pasan.build(%22scalable+enterprise+systems%22)%3B;pasan.craft(%22pixel-perfect+mobile+apps%22)%3B;pasan.design(%22interfaces+that+feel+alive%22)%3B;%2F%2F+Open+to+collaborate+%F0%9F%9A%80)](https://github.com/pasanhansaka)
 
 </div>
 
@@ -33,6 +33,12 @@
 ![GitHub followers](https://img.shields.io/github/followers/pasanhansaka?label=Followers&style=for-the-badge&color=9333ea&labelColor=1a0045)
 ![Stars](https://img.shields.io/github/stars/pasanhansaka?label=Total+Stars&style=for-the-badge&color=9333ea&labelColor=1a0045)
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
 </div>
 
 ---
@@ -58,6 +64,12 @@ const pasan: FullStackEngineer = {
   funFact:  "I debug with console.log() and I'm not sorry 😄",
 };
 ```
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
+</div>
 
 ---
 
@@ -116,6 +128,12 @@ const pasan: FullStackEngineer = {
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
 </div>
 
 ---
@@ -240,6 +258,12 @@ Press any key → instantly see its JS keyCode, key name and event properties. E
 </table>
 </div>
 
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
+</div>
+
 ---
 
 ## 📊 GitHub Stats
@@ -261,6 +285,12 @@ Press any key → instantly see its JS keyCode, key name and event properties. E
 
 </div>
 
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
+</div>
+
 ---
 
 ## 🏆 Trophies
@@ -271,6 +301,12 @@ Press any key → instantly see its JS keyCode, key name and event properties. E
 
 </div>
 
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
+</div>
+
 ---
 
 ## 📈 Contribution Graph
@@ -279,6 +315,12 @@ Press any key → instantly see its JS keyCode, key name and event properties. E
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasanhansaka&theme=tokyo-night&hide_border=true&bg_color=0D0020&color=c084fc&line=9333ea&point=e879f9&area=true&area_color=3b0764&custom_title=Pasan%27s+Contribution+Graph" width="100%" alt="Contribution Graph"/>
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
 </div>
 
 ---
@@ -296,6 +338,12 @@ Press any key → instantly see its JS keyCode, key name and event properties. E
 
 </div>
 
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
+</div>
+
 ---
 
 ## 💜 Support My Work
@@ -309,10 +357,12 @@ Press any key → instantly see its JS keyCode, key name and event properties. E
 
 </div>
 
----
+<br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    FOOTER BANNER                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:050010,50:1a0045,100:050010&section=footer&text=Let%27s+build+something+extraordinary+%F0%9F%9A%80&fontSize=18&fontColor=c084fc&fontAlignY=50&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="100%" alt="Footer Banner"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:050010,50:1a0045,100:050010&text=LET'S%20BUILD%20SOMETHING%20EXTRAORDINARY%20%F0%9F%9A%80&fontSize=24&fontColor=ffffff&fontAlignY=40&desc=OPEN%20TO%20FREELANCE%20%C2%B7%20COLLABORATIONS%20%C2%B7%20OPEN-SOURCE&descSize=13&descAlignY=65&descColor=c084fc&stroke=9333ea&strokeWidth=2&animation=fadeIn" width="100%" alt="Footer Banner"/>
 </div>
