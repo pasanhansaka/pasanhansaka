@@ -8,25 +8,35 @@
 
 <img src="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/main/header.svg" width="100%" alt="Pasan Hansaka — Full-Stack Engineer"/>
 
-<br/><br/>
+<br/>
 
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  TYPING  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2200&pause=700&color=C084FC&background=00000000&center=true&vCenter=true&width=780&lines=%E2%9A%A1+SWE+Intern+%40+Synapse+Solutions+%E2%80%94+dwesk+Social+CRM;%F0%9F%94%A5+Meta+Marketing+API+%7C+Spring+MVC+%7C+AngularJS+%7C+MySQL;%F0%9F%8E%93+BSc+(Hons)+Software+Engineering+%E2%80%94+Birmingham+City+University;%F0%9F%9A%80+Open+to%3A+Freelance+%E2%80%A2+Collabs+%E2%80%A2+Open-Source)](https://github.com/pasanhansaka)
 
-<br/><br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="100%"/>
+</div>
 
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SOCIALS  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
-<a href="https://linkedin.com/in/pasanhansaka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+---
+
+<div align="center">
+
 <a href="mailto:pasanhansaka31@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://linkedin.com/in/pasanhansaka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://wa.me/940701769147"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>&nbsp;
 <a href="https://youtube.com/@pasanhansaka"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>&nbsp;
 <a href="https://instagram.com/pasanhansaka26"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
 <a href="https://x.com/pasanhansaka03"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>&nbsp;
 <a href="https://facebook.com/pasanhansaka03"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
-<br/><br/>
+*💼 Open to Freelance &nbsp;·&nbsp; 🤝 Collaborations &nbsp;·&nbsp; 🌐 Open-Source*
+
+</div>
+
+<br/>
 
 ![Views](https://komarev.com/ghpvc/?username=pasanhansaka&label=Profile+Views&color=9333ea&style=flat-square)&nbsp;&nbsp;
 ![Followers](https://img.shields.io/github/followers/pasanhansaka?label=Followers&style=flat-square&color=9333ea&labelColor=0d0020)&nbsp;&nbsp;
@@ -46,7 +56,7 @@
      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20%20whoami&fontSize=22&fontColor=ffffff&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="55%"/>
+<div align="center" style="border-radius:12px;overflow:hidden;display:inline-block;width:55%;"><img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20%20Who Am I&fontSize=22&fontColor=ffffff&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="100%"/></div>
 </div>
 
 ```typescript
@@ -54,8 +64,8 @@ const pasan: FullStackEngineer = {
   name:     "Pasan Hansaka",
   from:     "Kalutara, Sri Lanka 🇱🇰",
   degree:   "BSc (Hons) Software Engineering — Birmingham City University",
-  current:  "SWE Intern @ Synapse Solutions — building dwesk Social CRM ⚡",
-  roles:    ["Backend Architect", "Mobile Engineer", "UI/UX Designer"],
+  current:  "SE Intern @ Synapse Solutions",
+  roles:    ["Backend Architect", "Mobile Engineer", "UI/UX Designer", "Full-Stack Developer"],
   motto:    "Ship fast. Design beautifully. Scale infinitely.",
 
   building: [
@@ -80,7 +90,7 @@ const pasan: FullStackEngineer = {
 <!-- ████  TECH ARSENAL  ████ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%E2%9A%A1%20%20tech_arsenal&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="55%"/>
+<div align="center" style="border-radius:12px;overflow:hidden;display:inline-block;width:55%;"><img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%E2%9A%A1%20%20Tech Arsenal&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="100%"/></div>
 </div>
 
 <br/>
@@ -143,7 +153,7 @@ const pasan: FullStackEngineer = {
 <!-- ████  PROJECTS — ALTERNATING LADDER  ████ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%9A%80%20%20featured_projects&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="55%"/>
+<div align="center" style="border-radius:12px;overflow:hidden;display:inline-block;width:55%;"><img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%9A%80%20%20Featured Projects&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="100%"/></div>
 </div>
 
 <br/>
@@ -153,7 +163,7 @@ const pasan: FullStackEngineer = {
 <tr>
 <td valign="top" width="48%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:1a0040,100:0d0025&text=%F0%9F%93%A5%20%20AnyDown&fontSize=17&fontColor=c084fc&fontAlignY=68&stroke=9333ea&strokeWidth=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:1a0040,100:0d0025&text=%F0%9F%93%A5%20%20AnyDown&fontSize=20&fontColor=c084fc&fontAlignY=68&stroke=9333ea&strokeWidth=0" width="100%"/>
 
 **Multi-Platform Video & Audio Downloader**
 
@@ -215,7 +225,7 @@ Download from YouTube, Facebook, Instagram & TikTok in one click. Full-stack PWA
 </td>
 <td valign="top" width="48%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:1a0040,100:0d0025&text=%F0%9F%A6%8D%20%20GorillaFit&fontSize=17&fontColor=c084fc&fontAlignY=68&stroke=9333ea&strokeWidth=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:1a0040,100:0d0025&text=%F0%9F%A6%8D%20%20GorillaFit&fontSize=20&fontColor=c084fc&fontAlignY=68&stroke=9333ea&strokeWidth=0" width="100%"/>
 
 **Modern Gym Landing Page**
 
@@ -235,7 +245,7 @@ Blazing-fast gym site with React 19, Vite, Tailwind CSS and Framer Motion animat
 <tr>
 <td valign="top" width="48%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:1a0040,100:0d0025&text=%F0%9F%92%AC%20%20HelaChat&fontSize=17&fontColor=c084fc&fontAlignY=68&stroke=9333ea&strokeWidth=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:1a0040,100:0d0025&text=%F0%9F%92%AC%20%20HelaChat&fontSize=20&fontColor=c084fc&fontAlignY=68&stroke=9333ea&strokeWidth=0" width="100%"/>
 
 **Real-Time Cross-Platform Chat App**
 
@@ -296,7 +306,7 @@ Mobile messaging built with React Native & Firebase. Real-time message sync, use
 </td>
 <td valign="top" width="48%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:1a0040,100:0d0025&text=%F0%9F%8F%A5%20%20GlobeMed&fontSize=17&fontColor=c084fc&fontAlignY=68&stroke=9333ea&strokeWidth=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:1a0040,100:0d0025&text=%F0%9F%8F%A5%20%20GlobeMed&fontSize=20&fontColor=c084fc&fontAlignY=68&stroke=9333ea&strokeWidth=0" width="100%"/>
 
 **Enterprise Hospital Management System**
 
@@ -315,7 +325,7 @@ Full hospital operations platform built on Java OOP design patterns. Manages pat
 <tr>
 <td valign="top" width="48%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:1a0040,100:0d0025&text=%F0%9F%9B%92%20%20GreenBasket&fontSize=17&fontColor=c084fc&fontAlignY=68&stroke=9333ea&strokeWidth=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:1a0040,100:0d0025&text=%F0%9F%9B%92%20%20GreenBasket&fontSize=20&fontColor=c084fc&fontAlignY=68&stroke=9333ea&strokeWidth=0" width="100%"/>
 
 **Fresh Produce E-Commerce Store**
 
@@ -376,7 +386,7 @@ Full-stack online grocery with smart product filtering, category browsing, cart 
 </td>
 <td valign="top" width="48%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:1a0040,100:0d0025&text=%F0%9F%8F%A6%20%20Hela+Bank&fontSize=17&fontColor=c084fc&fontAlignY=68&stroke=9333ea&strokeWidth=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:1a0040,100:0d0025&text=%F0%9F%8F%A6%20%20Hela+Bank&fontSize=20&fontColor=c084fc&fontAlignY=68&stroke=9333ea&strokeWidth=0" width="100%"/>
 
 **Secure Core Banking System**
 
@@ -394,7 +404,7 @@ Java banking platform with full account management, transaction processing and c
 <tr>
 <td valign="top" width="48%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:1a0040,100:0d0025&text=%F0%9F%8E%AE%20%202D+Adventure+Game&fontSize=17&fontColor=c084fc&fontAlignY=68&stroke=9333ea&strokeWidth=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:1a0040,100:0d0025&text=%F0%9F%8E%AE%20%202D+Adventure+Game&fontSize=20&fontColor=c084fc&fontAlignY=68&stroke=9333ea&strokeWidth=0" width="100%"/>
 
 **Browser-Based Game — Pure Vanilla JS**
 
@@ -451,7 +461,7 @@ Physics, collision detection, DOM manipulation and creative interactive UI — z
 </td>
 <td valign="top" width="48%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:1a0040,100:0d0025&text=%E2%8C%A8%EF%B8%8F%20%20Key+Code+Finder&fontSize=17&fontColor=c084fc&fontAlignY=68&stroke=9333ea&strokeWidth=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:1a0040,100:0d0025&text=%E2%8C%A8%EF%B8%8F%20%20Key+Code+Finder&fontSize=20&fontColor=c084fc&fontAlignY=68&stroke=9333ea&strokeWidth=0" width="100%"/>
 
 **Interactive Keyboard Code Inspector**
 
@@ -474,10 +484,50 @@ Press any key → instantly see its JS keyCode, key name and event properties. M
 
 <br/>
 
+<!-- ████  Stats  ████ -->
+
+<div align="center">
+<div align="center" style="border-radius:12px;overflow:hidden;display:inline-block;width:55%;"><img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%8F%86%20%20Github Stats&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="100%"/></div>
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pasanhansaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0025&title_color=c084fc&icon_color=9333ea&text_color=e2e8f0&ring_color=9333ea&include_all_commits=true&count_private=true" />
+</td>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pasanhansaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0025&title_color=c084fc&text_color=e2e8f0&langs_count=8" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pasanhansaka&theme=tokyonight&hide_border=true&background=0d0025&ring=9333ea&fire=c084fc&currStreakLabel=c084fc&sideLabels=c084fc&dates=94a3b8&sideNums=c084fc&currStreakNum=ffffff"/>
+  <img src="https://streak-stats.demolab.com?user=pasanhansaka&theme=tokyonight&hide_border=true&background=0d0025&ring=9333ea&fire=c084fc&currStreakLabel=c084fc&sideLabels=c084fc&dates=94a3b8&sideNums=c084fc&currStreakNum=ffffff"/>
+</picture>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
+</div>
+
+---
+
+<br/>
+
+
 <!-- ████  TROPHIES  ████ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%8F%86%20%20trophies&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="55%"/>
+<div align="center" style="border-radius:12px;overflow:hidden;display:inline-block;width:55%;"><img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%8F%86%20%20Github Trophies&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="100%"/></div>
+
 </div>
 
 <br/>
@@ -497,7 +547,7 @@ Press any key → instantly see its JS keyCode, key name and event properties. M
 <!-- ████  CONTRIBUTION GRAPH  ████ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%93%88%20%20contribution_activity&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="55%"/>
+<div align="center" style="border-radius:12px;overflow:hidden;display:inline-block;width:55%;"><img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%93%88%20%20Github Contributions Chart&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="100%"/></div>
 </div>
 
 <br/>
@@ -507,7 +557,7 @@ Press any key → instantly see its JS keyCode, key name and event properties. M
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="50%"/>
 </div>
 
 ---
@@ -517,7 +567,8 @@ Press any key → instantly see its JS keyCode, key name and event properties. M
 <!-- ████  SNAKE  ████ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%90%8D%20%20eating_my_commits&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="55%"/>
+<div align="center" style="border-radius:12px;overflow:hidden;display:inline-block;width:55%;">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%F0%9F%90%8D%20%20Eating My Git Commits&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="100%"/>
 </div>
 
 <br/>
@@ -541,7 +592,8 @@ Press any key → instantly see its JS keyCode, key name and event properties. M
 <!-- ████  SUPPORT  ████ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%E2%98%95%20%20support&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="55%"/>
+<div align="center" style="border-radius:12px; overflow:hidden; display:inline-block; width:55%;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0d0020,50:1a0045,100:0d0020&text=%E2%98%95%20%20Support Me&fontSize=22&fontColor=ffffff&fontAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="100%"/>
 </div>
 
 <br/>
