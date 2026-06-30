@@ -24,19 +24,20 @@
 
 <div align="center">
 
-<a href="mailto:pasanhansaka31@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://linkedin.com/in/pasanhansaka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://wa.me/940701769147"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>&nbsp;
-<a href="https://youtube.com/@pasanhansaka"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>&nbsp;
-<a href="https://instagram.com/pasanhansaka26"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
-<a href="https://x.com/pasanhansaka03"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>&nbsp;
-<a href="https://facebook.com/pasanhansaka03"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="mailto:pasanhansaka31@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d0020?style=for-the-badge&logo=gmail&logoColor=e879f9&labelColor=1a0040"/></a> 
+<a href="https://linkedin.com/in/pasanhansaka"><img src="https://img.shields.io/badge/LinkedIn-0d0020?style=for-the-badge&logo=linkedin&logoColor=e879f9&labelColor=1a0040"/></a> 
+<a href="https://wa.me/940701769147"><img src="https://img.shields.io/badge/WhatsApp-0d0020?style=for-the-badge&logo=whatsapp&logoColor=e879f9&labelColor=1a0040"/></a> 
+<a href="https://youtube.com/@pasanhansaka"><img src="https://img.shields.io/badge/YouTube-0d0020?style=for-the-badge&logo=youtube&logoColor=e879f9&labelColor=1a0040"/></a> 
+<a href="https://instagram.com/pasanhansaka26"><img src="https://img.shields.io/badge/Instagram-0d0020?style=for-the-badge&logo=instagram&logoColor=e879f9&labelColor=1a0040"/></a> 
+<a href="https://x.com/pasanhansaka03"><img src="https://img.shields.io/badge/X-0d0020?style=for-the-badge&logo=x&logoColor=e879f9&labelColor=1a0040"/></a> 
+<a href="https://facebook.com/pasanhansaka03"><img src="https://img.shields.io/badge/Facebook-0d0020?style=for-the-badge&logo=facebook&logoColor=e879f9&labelColor=1a0040"/></a>
 
 *💼 Open to Freelance &nbsp;·&nbsp; 🤝 Collaborations &nbsp;·&nbsp; 🌐 Open-Source*
 
 </div>
 
 <br/>
+
 
 ![Views](https://komarev.com/ghpvc/?username=pasanhansaka&label=Profile+Views&color=9333ea&style=flat-square)&nbsp;&nbsp;
 ![Followers](https://img.shields.io/github/followers/pasanhansaka?label=Followers&style=flat-square&color=9333ea&labelColor=0d0020)&nbsp;&nbsp;
