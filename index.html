@@ -3,436 +3,323 @@
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>Pasan Hansaka — Full-Stack Engineer</title>
-<meta name="description" content="Pasan Hansaka — Full-Stack Engineer, Mobile Developer, UI/UX Designer based in Sri Lanka."/>
+<title>Pasan Hansaka — Systems / Software Engineer</title>
+<meta name="description" content="Pasan Hansaka — Full-Stack Engineer, Mobile Developer, UI/UX Designer. Kalutara, Sri Lanka."/>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700;800&family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
-<style>
-  :root{
-    --bg:#050009;
-    --bg-soft:#0d0020;
-    --panel:#0f0322;
-    --violet:#9333ea;
-    --violet-deep:#6d28d9;
-    --magenta:#e879f9;
-    --text:#e7e5ef;
-    --muted:#9b95ab;
-    --line: rgba(147,51,234,0.35);
-  }
-  *{box-sizing:border-box;}
-  html{scroll-behavior:smooth;}
-  body{
-    margin:0;
-    background:var(--bg);
-    color:var(--text);
-    font-family:'Inter',system-ui,sans-serif;
-    overflow-x:hidden;
-  }
-
-  /* ───────── background grid + glow ───────── */
-  .bg-grid{
-    position:fixed; inset:0; z-index:0;
-    background-image:
-      linear-gradient(rgba(147,51,234,0.08) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(147,51,234,0.08) 1px, transparent 1px);
-    background-size:44px 44px;
-    mask-image: radial-gradient(ellipse 90% 70% at 50% 20%, black 40%, transparent 90%);
-  }
-  .bg-glow{
-    position:fixed; top:-200px; left:50%; transform:translateX(-50%);
-    width:1100px; height:700px; z-index:0;
-    background:radial-gradient(ellipse at center, rgba(124,58,237,0.35), transparent 65%);
-    filter:blur(40px);
-    pointer-events:none;
-  }
-
-  .wrap{ position:relative; z-index:1; max-width:1080px; margin:0 auto; padding:0 24px; }
-
-  /* ───────── nav ───────── */
-  nav{
-    position:sticky; top:0; z-index:50;
-    backdrop-filter:blur(14px);
-    background:rgba(5,0,9,0.65);
-    border-bottom:1px solid var(--line);
-  }
-  nav .wrap{ display:flex; align-items:center; justify-content:space-between; padding:16px 24px; }
-  .brand{ font-family:'JetBrains Mono',monospace; font-weight:700; color:#fff; letter-spacing:1px; font-size:15px; }
-  .brand span{ color:var(--magenta); }
-  .navlinks{ display:flex; gap:28px; list-style:none; margin:0; padding:0; }
-  .navlinks a{ color:var(--muted); text-decoration:none; font-size:13.5px; font-weight:500; letter-spacing:.3px; transition:.2s; }
-  .navlinks a:hover{ color:var(--magenta); }
-
-  /* ───────── hero ───────── */
-  .hero{ padding:96px 24px 60px; text-align:center; position:relative; }
-  .status-pill{
-    display:inline-flex; align-items:center; gap:8px;
-    border:1px solid var(--line); border-radius:999px; padding:7px 16px;
-    font-family:'JetBrains Mono',monospace; font-size:11.5px; letter-spacing:1.5px; color:#4ade80;
-    background:rgba(34,197,94,0.06); margin-bottom:32px;
-  }
-  .status-dot{ width:7px; height:7px; border-radius:50%; background:#22c55e; animation:pulse 1.8s infinite; }
-  @keyframes pulse{ 0%,100%{opacity:1;} 50%{opacity:.25;} }
-
-  .hero h1{
-    font-size:clamp(40px,7vw,76px); font-weight:900; margin:0 0 18px;
-    background:linear-gradient(135deg,#ffffff 30%,var(--magenta) 100%);
-    -webkit-background-clip:text; background-clip:text; color:transparent;
-    letter-spacing:-1px; line-height:1.05;
-  }
-  .hero .role{
-    font-family:'JetBrains Mono',monospace; font-size:clamp(13px,2.2vw,16px);
-    color:var(--magenta); letter-spacing:3px; margin-bottom:14px; font-weight:600;
-  }
-  .hero .tagline{ color:var(--muted); font-size:15.5px; max-width:560px; margin:0 auto 36px; line-height:1.6; }
-
-  .cta-row{ display:flex; gap:14px; justify-content:center; flex-wrap:wrap; margin-bottom:46px; }
-  .btn{
-    font-family:'Inter',sans-serif; font-weight:600; font-size:14px;
-    padding:13px 26px; border-radius:10px; text-decoration:none; transition:.25s;
-    display:inline-flex; align-items:center; gap:8px; border:1px solid transparent;
-  }
-  .btn-primary{ background:linear-gradient(135deg,var(--violet),var(--magenta)); color:#fff; box-shadow:0 0 0 0 rgba(232,121,249,0); }
-  .btn-primary:hover{ box-shadow:0 8px 30px -6px rgba(232,121,249,0.55); transform:translateY(-2px); }
-  .btn-ghost{ border-color:var(--line); color:var(--text); background:rgba(255,255,255,0.02); }
-  .btn-ghost:hover{ border-color:var(--magenta); color:var(--magenta); }
-
-  .social-row{ display:flex; gap:14px; justify-content:center; flex-wrap:wrap; }
-  .social-row a{
-    width:42px; height:42px; border-radius:10px; display:flex; align-items:center; justify-content:center;
-    border:1px solid var(--line); color:var(--muted); text-decoration:none; transition:.2s; background:rgba(255,255,255,0.02);
-  }
-  .social-row a:hover{ color:var(--magenta); border-color:var(--magenta); transform:translateY(-3px); }
-  .social-row svg{ width:18px; height:18px; fill:currentColor; }
-
-  /* ───────── section shell ───────── */
-  section{ padding:80px 24px; position:relative; }
-  .section-head{ text-align:center; margin-bottom:48px; }
-  .section-tag{
-    font-family:'JetBrains Mono',monospace; font-size:12px; letter-spacing:3px; color:var(--violet);
-    text-transform:uppercase; margin-bottom:10px; display:block;
-  }
-  .section-title{ font-size:clamp(26px,4vw,36px); font-weight:800; color:#fff; margin:0; }
-  .divider{
-    height:1px; max-width:200px; margin:20px auto 0;
-    background:linear-gradient(90deg,transparent,var(--violet),var(--magenta),var(--violet),transparent);
-  }
-
-  /* ───────── about ───────── */
-  .about-grid{ display:grid; grid-template-columns:1fr; gap:24px; }
-  .code-card{
-    background:var(--panel); border:1px solid var(--line); border-radius:16px;
-    padding:32px; font-family:'JetBrains Mono',monospace; font-size:13.5px; line-height:1.85;
-    overflow-x:auto; box-shadow:0 20px 60px -30px rgba(124,58,237,0.4);
-  }
-  .code-card .c1{ color:#7c8b9a; } /* comments */
-  .code-card .c2{ color:#c084fc; } /* keywords */
-  .code-card .c3{ color:#86efac; } /* strings */
-  .code-card .c4{ color:#fbbf24; } /* keys */
-  .code-card .c5{ color:#e879f9; } /* emoji-ish accents handled via text */
-
-  .pill-row{ display:flex; flex-wrap:wrap; gap:10px; margin-top:28px; justify-content:center; }
-  .pill{
-    font-size:12.5px; font-weight:600; padding:8px 16px; border-radius:999px;
-    border:1px solid var(--line); color:var(--text); background:rgba(147,51,234,0.06);
-  }
-
-  /* ───────── tech grid ───────── */
-  .tech-grid{ display:grid; grid-template-columns:repeat(auto-fill,minmax(96px,1fr)); gap:16px; }
-  .tech-item{
-    background:var(--panel); border:1px solid var(--line); border-radius:14px;
-    padding:18px 10px; text-align:center; transition:.25s;
-  }
-  .tech-item:hover{ transform:translateY(-4px); border-color:var(--magenta); box-shadow:0 12px 30px -14px rgba(232,121,249,0.4); }
-  .tech-item img{ width:36px; height:36px; margin-bottom:8px; }
-  .tech-item span{ display:block; font-size:11.5px; color:var(--muted); font-weight:600; }
-
-  /* ───────── projects ───────── */
-  .project-grid{ display:grid; grid-template-columns:repeat(auto-fit,minmax(310px,1fr)); gap:22px; }
-  .project-card{
-    background:var(--panel); border:1px solid var(--line); border-radius:16px; padding:26px;
-    display:flex; flex-direction:column; gap:14px; transition:.25s; position:relative; overflow:hidden;
-  }
-  .project-card::before{
-    content:''; position:absolute; inset:0; border-radius:16px; padding:1px;
-    background:linear-gradient(135deg,var(--violet),transparent 40%);
-    -webkit-mask:linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
-    -webkit-mask-composite:xor; mask-composite:exclude; opacity:0; transition:.25s;
-  }
-  .project-card:hover{ transform:translateY(-5px); box-shadow:0 20px 50px -20px rgba(147,51,234,0.45); }
-  .project-card:hover::before{ opacity:1; }
-  .project-top{ display:flex; align-items:center; justify-content:space-between; }
-  .project-title{ font-size:17px; font-weight:700; color:#fff; display:flex; align-items:center; gap:8px; }
-  .star-badge{
-    font-size:11.5px; font-weight:700; color:#fbbf24; background:rgba(251,191,36,0.1);
-    border:1px solid rgba(251,191,36,0.3); padding:3px 9px; border-radius:999px;
-  }
-  .project-desc{ font-size:13.5px; color:var(--muted); line-height:1.6; flex-grow:1; }
-  .project-tags{ display:flex; flex-wrap:wrap; gap:6px; }
-  .tag{ font-size:10.5px; font-weight:600; padding:4px 9px; border-radius:6px; background:rgba(147,51,234,0.12); color:#c4b5fd; border:1px solid var(--line); }
-  .project-link{
-    margin-top:6px; font-size:13px; font-weight:600; color:var(--magenta); text-decoration:none;
-    display:inline-flex; align-items:center; gap:6px;
-  }
-  .project-link:hover{ text-decoration:underline; }
-
-  /* ───────── stats ───────── */
-  .stats-grid{ display:grid; grid-template-columns:1fr 1fr; gap:20px; }
-  .stats-grid img{ width:100%; border-radius:14px; border:1px solid var(--line); }
-  @media(max-width:720px){ .stats-grid{ grid-template-columns:1fr; } }
-
-  /* ───────── footer ───────── */
-  footer{ padding:60px 24px 50px; text-align:center; border-top:1px solid var(--line); margin-top:40px; }
-  footer .ft-title{ font-size:24px; font-weight:800; color:#fff; margin-bottom:10px; }
-  footer .ft-sub{ color:var(--muted); font-size:13.5px; font-family:'JetBrains Mono',monospace; margin-bottom:28px; }
-  footer .copyright{ font-size:12px; color:#5c5670; margin-top:36px; }
-
-  ::selection{ background:var(--magenta); color:#000; }
-</style>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+<link rel="stylesheet" href="style.css"/>
 </head>
 <body>
 
+<div id="boot">
+  <div class="boot-box">
+    <div class="boot-line" data-t="booting pasan.sys v2.6.0 ..."></div>
+    <div class="boot-line" data-t="loading modules: react, spring-boot, mysql, meta-api <span class='ok'>[ok]</span>"></div>
+    <div class="boot-line" data-t="mounting /kalutara/sri-lanka <span class='ok'>[ok]</span>"></div>
+    <div class="boot-line" data-t="compiling ui... <span class='ok'>[done]</span>"></div>
+    <div class="boot-line" data-t="&gt; welcome<span class='boot-cursor'></span>"></div>
+    <div class="boot-bar-track"><div class="boot-bar" id="boot-bar"></div></div>
+  </div>
+</div>
+
+<div class="cursor-dot" id="cdot"></div>
+<div class="cursor-ring" id="cring"></div>
+<div class="cursor-label" id="clabel"></div>
+
 <div class="bg-grid"></div>
+<div class="bg-spot" id="bgspot"></div>
 <div class="bg-glow"></div>
+<div id="scroll-progress"></div>
+
+<span class="corner tl"></span><span class="corner tr"></span><span class="corner bl"></span><span class="corner br"></span>
+
+<div class="hud-clock"><span class="dot"></span><span id="clock">--:--:-- LKT</span></div>
+
+<div class="hud-rail left"><span class="rail-line"></span><span>SCROLL TO EXPLORE</span></div>
+<div class="hud-rail right">
+  <a href="mailto:pasanhansaka31@gmail.com" data-cursor="MAIL" title="Email"><svg viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></a>
+  <a href="https://linkedin.com/in/pasanhansaka" target="_blank" data-cursor="OPEN" title="LinkedIn"><svg viewBox="0 0 24 24"><path d="M19 0h-14c-2.76 0-5 2.24-5 5v14c0 2.76 2.24 5 5 5h14c2.76 0 5-2.24 5-5v-14c0-2.76-2.24-5-5-5zm-11 19h-3v-9h3v9zm-1.5-10.28c-.97 0-1.75-.79-1.75-1.75s.78-1.75 1.75-1.75 1.75.79 1.75 1.75-.78 1.75-1.75 1.75zm13.5 10.28h-3v-4.5c0-1.07-.02-2.45-1.49-2.45-1.5 0-1.73 1.17-1.73 2.37v4.58h-3v-9h2.88v1.23h.04c.4-.76 1.38-1.56 2.84-1.56 3.04 0 3.6 2 3.6 4.59v4.74z"/></svg></a>
+  <a href="https://github.com/pasanhansaka" target="_blank" data-cursor="OPEN" title="GitHub"><svg viewBox="0 0 24 24"><path d="M12 .3a12 12 0 0 0-3.8 23.38c.6.12.82-.26.82-.58v-2.02c-3.34.72-4.04-1.6-4.04-1.6-.55-1.4-1.34-1.76-1.34-1.76-1.1-.74.08-.73.08-.73 1.22.09 1.86 1.25 1.86 1.25 1.08 1.86 2.83 1.32 3.52 1.01.11-.79.42-1.32.76-1.63-2.66-.3-5.47-1.34-5.47-5.93 0-1.31.47-2.38 1.24-3.22-.13-.3-.54-1.52.12-3.18 0 0 1.01-.32 3.3 1.23a11.5 11.5 0 0 1 6 0c2.29-1.55 3.3-1.23 3.3-1.23.66 1.66.25 2.88.12 3.18.77.84 1.24 1.91 1.24 3.22 0 4.6-2.81 5.63-5.49 5.92.43.37.81 1.1.81 2.22v3.29c0 .32.22.71.83.58A12 12 0 0 0 12 .3z"/></svg></a>
+  <span class="rail-line"></span>
+</div>
 
 <nav>
-  <div class="wrap">
-    <div class="brand">PASAN<span>.</span>DEV</div>
-    <ul class="navlinks">
-      <li><a href="#about">About</a></li>
-      <li><a href="#stack">Stack</a></li>
-      <li><a href="#projects">Projects</a></li>
-      <li><a href="#stats">Stats</a></li>
-      <li><a href="#contact">Contact</a></li>
-    </ul>
-  </div>
+  <div class="brand">PASAN.HANSAKA<span class="dot">_</span></div>
+  <ul class="navlinks">
+    <li><a href="#about">About</a></li>
+    <li><a href="#stack">Stack</a></li>
+    <li><a href="#experience">Experience</a></li>
+    <li><a href="#projects">Work</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
 </nav>
 
+<div class="wrap">
+
 <!-- ═══════════════ HERO ═══════════════ -->
-<header class="hero">
-  <div class="wrap">
-    <div class="status-pill"><span class="status-dot"></span> ONLINE · BUILDING · OPEN TO COLLAB</div>
-    <h1>Pasan Hansaka</h1>
-    <div class="role">FULL-STACK ENGINEER&nbsp;&nbsp;·&nbsp;&nbsp;MOBILE DEV&nbsp;&nbsp;·&nbsp;&nbsp;UI/UX DESIGNER</div>
-    <p class="tagline">Ship fast. Design beautifully. Scale infinitely. Building enterprise systems, mobile apps and interfaces that feel alive — from Kalutara, Sri Lanka 🇱🇰.</p>
-    <div class="cta-row">
-      <a class="btn btn-primary" href="#projects">View Projects →</a>
-      <a class="btn btn-ghost" href="https://github.com/pasanhansaka" target="_blank">GitHub Profile</a>
-    </div>
-    <div class="social-row">
-      <a href="mailto:pasanhansaka31@gmail.com" title="Gmail"><svg viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></a>
-      <a href="https://linkedin.com/in/pasanhansaka" target="_blank" title="LinkedIn"><svg viewBox="0 0 24 24"><path d="M19 0h-14c-2.76 0-5 2.24-5 5v14c0 2.76 2.24 5 5 5h14c2.76 0 5-2.24 5-5v-14c0-2.76-2.24-5-5-5zm-11 19h-3v-9h3v9zm-1.5-10.28c-.97 0-1.75-.79-1.75-1.75s.78-1.75 1.75-1.75 1.75.79 1.75 1.75-.78 1.75-1.75 1.75zm13.5 10.28h-3v-4.5c0-1.07-.02-2.45-1.49-2.45-1.5 0-1.73 1.17-1.73 2.37v4.58h-3v-9h2.88v1.23h.04c.4-.76 1.38-1.56 2.84-1.56 3.04 0 3.6 2 3.6 4.59v4.74z"/></svg></a>
-      <a href="https://wa.me/940701769147" target="_blank" title="WhatsApp"><svg viewBox="0 0 24 24"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2 22l5.25-1.38c1.45.79 3.08 1.21 4.79 1.21 5.46 0 9.91-4.45 9.91-9.91s-4.45-9.92-9.91-9.92zm5.79 14.05c-.24.68-1.39 1.32-1.93 1.4-.49.07-1.11.1-1.79-.11-.41-.13-.94-.3-1.62-.6-2.85-1.23-4.7-4.11-4.84-4.3-.14-.19-1.16-1.54-1.16-2.94 0-1.4.73-2.09.99-2.38.26-.28.57-.35.76-.35.19 0 .38 0 .55.01.18.01.41-.07.64.49.24.57.81 1.97.88 2.11.07.14.12.31.02.5-.09.19-.14.31-.28.47-.14.16-.29.36-.42.48-.14.13-.28.27-.12.53.16.26.71 1.17 1.52 1.9 1.05.94 1.93 1.23 2.19 1.37.26.14.41.12.56-.07.16-.19.67-.78.85-1.05.18-.26.36-.22.6-.13.25.09 1.59.75 1.86.89.27.13.45.2.51.31.07.12.07.66-.17 1.33z"/></svg></a>
-      <a href="https://youtube.com/@pasanhansaka" target="_blank" title="YouTube"><svg viewBox="0 0 24 24"><path d="M23.5 6.2s-.23-1.64-.94-2.36c-.9-.94-1.91-.94-2.37-1C16.94 2.6 12 2.6 12 2.6h-.01s-4.94 0-8.19.24c-.46.06-1.47.06-2.37 1C.72 4.56.5 6.2.5 6.2S.27 8.13.27 10.05v1.78c0 1.93.23 3.85.23 3.85s.23 1.64.94 2.36c.9.94 2.08.91 2.6 1.01 1.89.18 8 .24 8 .24s4.94-.01 8.19-.25c.46-.06 1.47-.06 2.37-1 .71-.72.94-2.36.94-2.36s.23-1.92.23-3.85v-1.78c0-1.92-.23-3.85-.23-3.85zM9.55 14.4V7.46l6.27 3.47-6.27 3.47z"/></svg></a>
-      <a href="https://instagram.com/pasanhansaka26" target="_blank" title="Instagram"><svg viewBox="0 0 24 24"><path d="M12 2.16c3.2 0 3.58.01 4.85.07 3.25.15 4.77 1.69 4.92 4.92.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.15 3.23-1.66 4.77-4.92 4.92-1.27.06-1.64.07-4.85.07s-3.58-.01-4.85-.07c-3.26-.15-4.77-1.7-4.92-4.92-.06-1.27-.07-1.65-.07-4.85s.01-3.58.07-4.85c.15-3.23 1.66-4.77 4.92-4.92 1.27-.06 1.65-.07 4.85-.07zM12 0C8.74 0 8.33.01 7.05.07c-4.35.2-6.78 2.62-6.98 6.98C0 8.33 0 8.74 0 12s.01 3.67.07 4.95c.2 4.36 2.62 6.78 6.98 6.98C8.33 23.99 8.74 24 12 24s3.67-.01 4.95-.07c4.35-.2 6.78-2.62 6.98-6.98.06-1.28.07-1.69.07-4.95s-.01-3.67-.07-4.95C23.73 2.69 21.31.27 16.95.07 15.67.01 15.26 0 12 0zm0 5.84A6.16 6.16 0 1 0 12 18.16 6.16 6.16 0 0 0 12 5.84zM12 16a4 4 0 1 1 0-8 4 4 0 0 1 0 8zm6.41-10.84a1.44 1.44 0 1 1-2.88 0 1.44 1.44 0 0 1 2.88 0z"/></svg></a>
-      <a href="https://x.com/pasanhansaka03" target="_blank" title="X"><svg viewBox="0 0 24 24"><path d="M18.24 2H21l-7.5 8.57L22 22h-6.84l-5.36-6.74L3.6 22H1l8.03-9.18L2 2h7l4.83 6.14L18.24 2zm-1.2 18h1.87L7.05 4H5.06l11.98 16z"/></svg></a>
-      <a href="https://facebook.com/pasanhansaka03" target="_blank" title="Facebook"><svg viewBox="0 0 24 24"><path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12c0 4.84 3.44 8.87 8 9.8v-6.93h-2.4v-2.87H10V9.84c0-2.37 1.41-3.68 3.57-3.68 1.04 0 2.12.18 2.12.18v2.32h-1.2c-1.18 0-1.55.73-1.55 1.48v1.77h2.64l-.42 2.87h-2.22V21.8c4.56-.93 8-4.96 8-9.8z"/></svg></a>
-    </div>
+<header class="hero" id="top">
+  <div class="hero-tag"><span class="dot"></span> AVAILABLE FOR FREELANCE &amp; COLLAB</div>
+  <h1><span class="decrypt" data-text="PASAN">PASAN</span><br><span class="decrypt accent" data-text="HANSAKA">HANSAKA</span></h1>
+  <div class="role-line">SOFTWARE ENGINEER <b>/</b> MOBILE DEV <b>/</b> UI-UX DESIGN</div>
+  <p class="lead">I build <strong>enterprise-grade systems</strong> and interfaces that feel considered — currently engineering the <strong>dwesk Social CRM</strong> platform at Synapse Solutions, from Kalutara, Sri Lanka.</p>
+  <div class="cta-row">
+    <a class="btn btn-primary" href="#projects" data-cursor="VIEW">See the work →</a>
+    <a class="btn btn-ghost" href="#contact" data-cursor="TALK">Start a project</a>
+  </div>
+  <div class="hero-meta">
+    <div><span class="label">Based in</span><span class="value">Kalutara, LK</span></div>
+    <div><span class="label">Currently</span><span class="value">SE Intern @ Synapse</span></div>
+    <div><span class="label">Focus</span><span class="value">Java · React · Spring</span></div>
   </div>
 </header>
 
+</div>
+
+<!-- MARQUEE -->
+<div class="marquee-wrap" id="marquee">
+  <div class="marquee-track" id="marqueeTrack">
+    <span><b>Java</b> Spring Boot <b>·</b> React 19 <b>·</b> Node.js <b>·</b> MySQL <b>·</b> Meta Marketing API <b>·</b> AngularJS <b>·</b> React Native <b>·</b> Docker <b>·</b> TypeScript <b>·</b> Figma</span>
+    <span><b>Java</b> Spring Boot <b>·</b> React 19 <b>·</b> Node.js <b>·</b> MySQL <b>·</b> Meta Marketing API <b>·</b> AngularJS <b>·</b> React Native <b>·</b> Docker <b>·</b> TypeScript <b>·</b> Figma</span>
+  </div>
+</div>
+
+<div class="wrap">
+
 <!-- ═══════════════ ABOUT ═══════════════ -->
 <section id="about">
-  <div class="wrap">
-    <div class="section-head">
-      <span class="section-tag">// whoami</span>
-      <h2 class="section-title">About Me</h2>
-      <div class="divider"></div>
-    </div>
-    <div class="about-grid">
-      <div class="code-card">
-<pre style="margin:0; white-space:pre-wrap;"><span class="c1">// Pasan Hansaka — Engineer File</span>
+  <span class="eyebrow"><span class="idx">01</span> whoami</span>
+  <h2 class="head reveal">About the engineer</h2>
+  <p class="head-sub reveal">A snapshot of who's behind the keyboard — degree, focus, and how I like to work.</p>
+
+  <div class="about-grid">
+    <div class="code-card reveal">
+      <div class="dots"><i></i><i></i><i></i></div>
+<pre style="white-space:pre-wrap;"><span class="c1">// pasan.js</span>
 <span class="c2">const</span> pasan = {
-  <span class="c4">name</span>:     <span class="c3">"Pasan Hansaka"</span>,
-  <span class="c4">from</span>:     <span class="c3">"Kalutara, Sri Lanka 🇱🇰"</span>,
-  <span class="c4">degree</span>:   <span class="c3">"BSc (Hons) Software Engineering — Birmingham City University"</span>,
-  <span class="c4">current</span>:  <span class="c3">"SE Intern @ Synapse Solutions — Building dwesk Social CRM ⚡"</span>,
-  <span class="c4">roles</span>:    [<span class="c3">"Backend Architect"</span>, <span class="c3">"Mobile Engineer"</span>, <span class="c3">"UI/UX Designer"</span>],
-  <span class="c4">motto</span>:    <span class="c3">"Ship fast. Design beautifully. Scale infinitely."</span>,
-  <span class="c4">openTo</span>:   [<span class="c3">"Freelance 💼"</span>, <span class="c3">"Collaboration 🤝"</span>, <span class="c3">"Open-Source 🌐"</span>],
-  <span class="c4">funFact</span>:  <span class="c3">"I debug with console.log() and I'm not sorry 😄"</span>,
-};</pre>
-      </div>
-      <div class="pill-row">
-        <span class="pill">💼 Open to Freelance</span>
-        <span class="pill">🤝 Collaborations</span>
-        <span class="pill">🌐 Open-Source</span>
+  <span class="c4">name</span>:      <span class="c3">"Pasan Hansaka"</span>,
+  <span class="c4">based</span>:     <span class="c3">"Kalutara, Sri Lanka"</span>,
+  <span class="c4">degree</span>:    <span class="c3">"BSc (Hons) Software Engineering"</span>,
+  <span class="c4">institute</span>: <span class="c3">"Java Institute for Advanced Technology"</span>,
+  <span class="c4">affiliate</span>: <span class="c3">"Birmingham City University, UK"</span>,
+  <span class="c4">role</span>:      <span class="c3">"SE Intern @ Synapse Solutions"</span>,
+  <span class="c4">building</span>:  <span class="c3">"dwesk Social CRM"</span>,
+  <span class="c4">approach</span>:  [<span class="c3">"ship in small loops"</span>, <span class="c3">"debug at the root"</span>, <span class="c3">"design with intent"</span>],
+  <span class="c4">alsoDoes</span>:  <span class="c3">"writes LinkedIn deep-dives on API & DB design"</span>,
+};
+
+<span class="c1">// run it</span>
+<span class="c5">export default</span> pasan;</pre>
+    </div>
+
+    <div class="about-side reveal">
+      <div class="info-row"><span class="k">Location</span><span class="v">Kalutara, Sri Lanka</span></div>
+      <div class="info-row"><span class="k">Education</span><span class="v">BSc (Hons) SE — Java Institute / BCU</span></div>
+      <div class="info-row"><span class="k">Role</span><span class="v">Software Engineering Intern</span></div>
+      <div class="info-row"><span class="k">Company</span><span class="v">Synapse Solutions Pvt. Ltd.</span></div>
+      <div class="info-row"><span class="k">Since</span><span class="v">May 2026</span></div>
+      <div class="now-card">
+        <div class="now-title">// currently</div>
+        <p>Shipping a Facebook Marketing Campaign feature on <strong style="color:var(--text)">dwesk Social CRM</strong> — wiring the Meta Marketing API into a Java Spring MVC / AngularJS stack, and writing an educational LinkedIn series on API &amp; database design on the side.</p>
       </div>
     </div>
   </div>
 </section>
 
-<!-- ═══════════════ TECH STACK ═══════════════ -->
+<!-- ═══════════════ STACK ═══════════════ -->
 <section id="stack">
-  <div class="wrap">
-    <div class="section-head">
-      <span class="section-tag">⚡ tech_arsenal</span>
-      <h2 class="section-title">Stack &amp; Tooling</h2>
-      <div class="divider"></div>
+  <span class="eyebrow"><span class="idx">02</span> arsenal</span>
+  <h2 class="head reveal">Stack &amp; tooling</h2>
+  <p class="head-sub reveal">Grouped by where it earns its keep — not just a wall of logos.</p>
+
+  <div class="stack-groups reveal">
+    <div class="stack-group">
+      <div class="g-label">Backend<b>Server &amp; data</b></div>
+      <div class="chip-row">
+        <span class="chip"><img src="https://skillicons.dev/icons?i=java" alt=""/>Java</span>
+        <span class="chip"><img src="https://skillicons.dev/icons?i=spring" alt=""/>Spring Boot</span>
+        <span class="chip"><img src="https://skillicons.dev/icons?i=nodejs" alt=""/>Node.js</span>
+        <span class="chip"><img src="https://skillicons.dev/icons?i=express" alt=""/>Express</span>
+        <span class="chip"><img src="https://skillicons.dev/icons?i=php" alt=""/>PHP</span>
+        <span class="chip"><img src="https://skillicons.dev/icons?i=mysql" alt=""/>MySQL</span>
+        <span class="chip"><img src="https://skillicons.dev/icons?i=mongodb" alt=""/>MongoDB</span>
+        <span class="chip"><img src="https://skillicons.dev/icons?i=firebase" alt=""/>Firebase</span>
+      </div>
     </div>
-    <div class="tech-grid">
-      <div class="tech-item"><img src="https://skillicons.dev/icons?i=java" alt="Java"/><span>Java</span></div>
-      <div class="tech-item"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/><span>JavaScript</span></div>
-      <div class="tech-item"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"/><span>TypeScript</span></div>
-      <div class="tech-item"><img src="https://skillicons.dev/icons?i=html" alt="HTML5"/><span>HTML5</span></div>
-      <div class="tech-item"><img src="https://skillicons.dev/icons?i=css" alt="CSS3"/><span>CSS3</span></div>
-      <div class="tech-item"><img src="https://skillicons.dev/icons?i=php" alt="PHP"/><span>PHP</span></div>
-      <div class="tech-item"><img src="https://skillicons.dev/icons?i=react" alt="React"/><span>React</span></div>
-      <div class="tech-item"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/><span>Next.js</span></div>
-      <div class="tech-item"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind"/><span>Tailwind</span></div>
-      <div class="tech-item"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"/><span>Bootstrap</span></div>
-      <div class="tech-item"><img src="https://skillicons.dev/icons?i=angular" alt="AngularJS"/><span>AngularJS</span></div>
-      <div class="tech-item"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot"/><span>Spring Boot</span></div>
-      <div class="tech-item"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/><span>Node.js</span></div>
-      <div class="tech-item"><img src="https://skillicons.dev/icons?i=express" alt="Express"/><span>Express</span></div>
-      <div class="tech-item"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/><span>MySQL</span></div>
-      <div class="tech-item"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/><span>MongoDB</span></div>
-      <div class="tech-item"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase"/><span>Firebase</span></div>
-      <div class="tech-item"><img src="https://skillicons.dev/icons?i=git" alt="Git"/><span>Git</span></div>
-      <div class="tech-item"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/><span>GitHub</span></div>
-      <div class="tech-item"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/><span>Docker</span></div>
-      <div class="tech-item"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/><span>Linux</span></div>
-      <div class="tech-item"><img src="https://skillicons.dev/icons?i=figma" alt="Figma"/><span>Figma</span></div>
-      <div class="tech-item"><img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD"/><span>Adobe XD</span></div>
-      <div class="tech-item"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android"/><span>Android</span></div>
+    <div class="stack-group">
+      <div class="g-label">Frontend<b>Interfaces</b></div>
+      <div class="chip-row">
+        <span class="chip"><img src="https://skillicons.dev/icons?i=javascript" alt=""/>JavaScript</span>
+        <span class="chip"><img src="https://skillicons.dev/icons?i=typescript" alt=""/>TypeScript</span>
+        <span class="chip"><img src="https://skillicons.dev/icons?i=react" alt=""/>React</span>
+        <span class="chip"><img src="https://skillicons.dev/icons?i=nextjs" alt=""/>Next.js</span>
+        <span class="chip"><img src="https://skillicons.dev/icons?i=angular" alt=""/>AngularJS</span>
+        <span class="chip"><img src="https://skillicons.dev/icons?i=tailwind" alt=""/>Tailwind</span>
+        <span class="chip"><img src="https://skillicons.dev/icons?i=bootstrap" alt=""/>Bootstrap</span>
+        <span class="chip"><img src="https://skillicons.dev/icons?i=html" alt=""/>HTML5/CSS3</span>
+      </div>
+    </div>
+    <div class="stack-group">
+      <div class="g-label">Mobile<b>On the go</b></div>
+      <div class="chip-row">
+        <span class="chip"><img src="https://skillicons.dev/icons?i=react" alt=""/>React Native</span>
+        <span class="chip"><img src="https://skillicons.dev/icons?i=androidstudio" alt=""/>Android Studio</span>
+      </div>
+    </div>
+    <div class="stack-group">
+      <div class="g-label">Tooling<b>Workflow</b></div>
+      <div class="chip-row">
+        <span class="chip"><img src="https://skillicons.dev/icons?i=git" alt=""/>Git</span>
+        <span class="chip"><img src="https://skillicons.dev/icons?i=github" alt=""/>GitHub</span>
+        <span class="chip"><img src="https://skillicons.dev/icons?i=docker" alt=""/>Docker</span>
+        <span class="chip"><img src="https://skillicons.dev/icons?i=linux" alt=""/>Linux</span>
+        <span class="chip"><img src="https://skillicons.dev/icons?i=figma" alt=""/>Figma</span>
+        <span class="chip"><img src="https://skillicons.dev/icons?i=xd" alt=""/>Adobe XD</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════ EXPERIENCE ═══════════════ -->
+<section id="experience">
+  <span class="eyebrow"><span class="idx">03</span> log</span>
+  <h2 class="head reveal">Experience</h2>
+  <p class="head-sub reveal">What I've actually shipped and debugged — not a bullet-point résumé.</p>
+
+  <div class="timeline">
+    <div class="timeline-progress" id="tlProgress"></div>
+
+    <div class="t-item active reveal">
+      <div class="t-dot"></div>
+      <div class="t-period">May 2026 — Present</div>
+      <div class="t-role">Software Engineering Intern</div>
+      <div class="t-org">Synapse Solutions Pvt. Ltd. · Sri Lanka</div>
+      <div class="t-desc">Building the <b>Facebook Marketing Campaign</b> feature inside <b>dwesk Social CRM</b>, integrating the Meta Marketing API with a Java Spring MVC / JSP / AngularJS / MySQL stack. Diagnosed and resolved a run of Meta API 400 errors across campaign and ad-set creation, shipped an on-demand <b>/sync-insights</b> endpoint for Meta data syncing, and fixed a Channels-page account identifier bug. Also debugged an <b>Asterisk ARI</b> DTMF audio-switching issue and untangled recurring Maven module / WAR packaging deployment quirks.</div>
+      <div class="t-tags"><span>Java · Spring MVC</span><span>Meta Marketing API</span><span>AngularJS</span><span>MySQL</span><span>Asterisk ARI</span></div>
+    </div>
+
+    <div class="t-item reveal">
+      <div class="t-dot"></div>
+      <div class="t-period">2022 — 2026</div>
+      <div class="t-role">BSc (Hons) Software Engineering</div>
+      <div class="t-org">Java Institute for Advanced Technology — affiliated with Birmingham City University, UK</div>
+      <div class="t-desc">Built a range of academic full-stack &amp; systems projects spanning Java OOP design, relational databases, and modern JS frameworks — the foundation for everything below.</div>
+      <div class="t-tags"><span>Java</span><span>OOP Design</span><span>MySQL</span><span>React</span></div>
     </div>
   </div>
 </section>
 
 <!-- ═══════════════ PROJECTS ═══════════════ -->
 <section id="projects">
-  <div class="wrap">
-    <div class="section-head">
-      <span class="section-tag">🚀 featured_projects</span>
-      <h2 class="section-title">What I've Built</h2>
-      <div class="divider"></div>
+  <div class="deck-head">
+    <div>
+      <span class="eyebrow"><span class="idx">04</span> selected work</span>
+      <h2 class="head reveal" style="margin-bottom:0;">Projects</h2>
     </div>
-    <div class="project-grid">
+    <div class="deck-nav">DRAG OR SCROLL <span>→</span></div>
+  </div>
 
-      <div class="project-card">
-        <div class="project-top">
-          <div class="project-title">📥 AnyDown</div>
-          <span class="star-badge">⭐ 5</span>
-        </div>
-        <div class="project-desc">Multi-platform video &amp; audio downloader — YouTube, Facebook, Instagram, TikTok. Full-stack PWA with platform-aware themes and MP3 extraction via yt-dlp + FFmpeg.</div>
-        <div class="project-tags">
-          <span class="tag">JavaScript</span><span class="tag">React</span><span class="tag">Node.js</span><span class="tag">yt-dlp</span>
-        </div>
-        <a class="project-link" href="https://github.com/pasanhansaka/AnyDown" target="_blank">View Repository →</a>
-      </div>
-
-      <div class="project-card">
-        <div class="project-top">
-          <div class="project-title">🦍 GorillaFit</div>
-          <span class="star-badge">⭐ 1</span>
-        </div>
-        <div class="project-desc">Modern gym landing page built with React 19, Vite, Tailwind CSS and Framer Motion. Fully responsive with smooth section transitions.</div>
-        <div class="project-tags">
-          <span class="tag">React 19</span><span class="tag">Vite</span><span class="tag">Tailwind</span><span class="tag">Framer Motion</span>
-        </div>
-        <a class="project-link" href="https://github.com/pasanhansaka/GorillaFit" target="_blank">View Repository →</a>
-      </div>
-
-      <div class="project-card">
-        <div class="project-top">
-          <div class="project-title">💬 HelaChat</div>
-        </div>
-        <div class="project-desc">Real-time cross-platform chat app with React Native &amp; Firebase. Real-time message sync, authentication, clean minimal UI.</div>
-        <div class="project-tags">
-          <span class="tag">React Native</span><span class="tag">Firebase</span><span class="tag">Expo</span>
-        </div>
-        <a class="project-link" href="https://github.com/pasanhansaka/HelaChat" target="_blank">View Repository →</a>
-      </div>
-
-      <div class="project-card">
-        <div class="project-top">
-          <div class="project-title">🏥 GlobeMed</div>
-          <span class="star-badge">⭐ 1</span>
-        </div>
-        <div class="project-desc">Enterprise hospital management system built on Java OOP design patterns. Manages patients, doctors, appointments and billing at scale.</div>
-        <div class="project-tags">
-          <span class="tag">Java</span><span class="tag">MySQL</span><span class="tag">OOP Patterns</span>
-        </div>
-        <a class="project-link" href="https://github.com/pasanhansaka/GlobeMed-Hospital-Management-System" target="_blank">View Repository →</a>
-      </div>
-
-      <div class="project-card">
-        <div class="project-top">
-          <div class="project-title">🛒 GreenBasket</div>
-        </div>
-        <div class="project-desc">Fresh produce e-commerce store with smart product filtering, category browsing and a seamless end-to-end shopping experience.</div>
-        <div class="project-tags">
-          <span class="tag">React</span><span class="tag">Node.js</span><span class="tag">HTML5</span>
-        </div>
-        <a class="project-link" href="https://github.com/pasanhansaka/GreenBasket-Fresh-Produce-Online-Store" target="_blank">View Repository →</a>
-      </div>
-
-      <div class="project-card">
-        <div class="project-top">
-          <div class="project-title">🏦 Hela Bank</div>
-        </div>
-        <div class="project-desc">Secure core banking system in Java with full account management, transaction processing and security-first enterprise architecture.</div>
-        <div class="project-tags">
-          <span class="tag">Java</span><span class="tag">MySQL</span>
-        </div>
-        <a class="project-link" href="https://github.com/pasanhansaka/Hela_Bank" target="_blank">View Repository →</a>
-      </div>
-
-      <div class="project-card">
-        <div class="project-top">
-          <div class="project-title">🎮 2D Adventure Game</div>
-        </div>
-        <div class="project-desc">Browser-based game built with pure vanilla JavaScript — collision physics, sprite movement and level logic, zero frameworks.</div>
-        <div class="project-tags">
-          <span class="tag">JavaScript</span><span class="tag">HTML5</span><span class="tag">CSS3</span>
-        </div>
-        <a class="project-link" href="https://github.com/pasanhansaka/2D-Adventure-Game" target="_blank">View Repository →</a>
-      </div>
-
-      <div class="project-card">
-        <div class="project-top">
-          <div class="project-title">⌨️ Key Code Finder</div>
-        </div>
-        <div class="project-desc">Interactive keyboard inspector — press any key and instantly see its JS keyCode, key name and event properties.</div>
-        <div class="project-tags">
-          <span class="tag">JavaScript</span><span class="tag">CSS3</span>
-        </div>
-        <a class="project-link" href="https://github.com/pasanhansaka/Key-Code-Finder-Interactive-Keyboard-Code-Helper" target="_blank">View Repository →</a>
-      </div>
-
+  <div class="deck-scroll reveal" id="deck">
+    <div class="p-card">
+      <div class="p-top"><span class="p-idx">01 / 08</span><span class="p-star">★ 5</span></div>
+      <div class="p-title">AnyDown</div>
+      <div class="p-desc">Multi-platform video &amp; audio downloader — YouTube, Facebook, Instagram, TikTok. Full-stack PWA with platform-aware theming and MP3 extraction via yt-dlp + FFmpeg. Flagship project, 1,000+ supported sites.</div>
+      <div class="p-tags"><span>JavaScript</span><span>React</span><span>Node.js</span><span>yt-dlp</span></div>
+      <a class="p-link" href="https://github.com/pasanhansaka/AnyDown" target="_blank" data-cursor="OPEN">View repository →</a>
+    </div>
+    <div class="p-card">
+      <div class="p-top"><span class="p-idx">02 / 08</span><span class="p-star">★ 1</span></div>
+      <div class="p-title">GorillaFit</div>
+      <div class="p-desc">Modern gym landing page built with React 19, Vite, Tailwind CSS and Framer Motion. Fully responsive with smooth section transitions.</div>
+      <div class="p-tags"><span>React 19</span><span>Vite</span><span>Tailwind</span><span>Framer Motion</span></div>
+      <a class="p-link" href="https://github.com/pasanhansaka/GorillaFit" target="_blank" data-cursor="OPEN">View repository →</a>
+    </div>
+    <div class="p-card">
+      <div class="p-top"><span class="p-idx">03 / 08</span></div>
+      <div class="p-title">HelaChat</div>
+      <div class="p-desc">Real-time cross-platform chat app built with React Native &amp; Firebase — live message sync, authentication, and a clean minimal UI.</div>
+      <div class="p-tags"><span>React Native</span><span>Firebase</span><span>Expo</span></div>
+      <a class="p-link" href="https://github.com/pasanhansaka/HelaChat" target="_blank" data-cursor="OPEN">View repository →</a>
+    </div>
+    <div class="p-card">
+      <div class="p-top"><span class="p-idx">04 / 08</span><span class="p-star">★ 1</span></div>
+      <div class="p-title">GlobeMed</div>
+      <div class="p-desc">Enterprise hospital management system built on Java OOP design patterns — manages patients, doctors, appointments and billing at scale.</div>
+      <div class="p-tags"><span>Java</span><span>MySQL</span><span>OOP Patterns</span></div>
+      <a class="p-link" href="https://github.com/pasanhansaka/GlobeMed-Hospital-Management-System" target="_blank" data-cursor="OPEN">View repository →</a>
+    </div>
+    <div class="p-card">
+      <div class="p-top"><span class="p-idx">05 / 08</span></div>
+      <div class="p-title">GreenBasket</div>
+      <div class="p-desc">Fresh-produce e-commerce store with smart product filtering, category browsing and a seamless end-to-end shopping flow.</div>
+      <div class="p-tags"><span>React</span><span>Node.js</span><span>HTML5</span></div>
+      <a class="p-link" href="https://github.com/pasanhansaka/GreenBasket-Fresh-Produce-Online-Store" target="_blank" data-cursor="OPEN">View repository →</a>
+    </div>
+    <div class="p-card">
+      <div class="p-top"><span class="p-idx">06 / 08</span></div>
+      <div class="p-title">Hela Bank</div>
+      <div class="p-desc">Secure core banking system in Java with full account management, transaction processing and security-first architecture.</div>
+      <div class="p-tags"><span>Java</span><span>MySQL</span></div>
+      <a class="p-link" href="https://github.com/pasanhansaka/Hela_Bank" target="_blank" data-cursor="OPEN">View repository →</a>
+    </div>
+    <div class="p-card">
+      <div class="p-top"><span class="p-idx">07 / 08</span></div>
+      <div class="p-title">2D Adventure Game</div>
+      <div class="p-desc">Browser-based game in pure vanilla JavaScript — collision physics, sprite movement and level logic, zero frameworks.</div>
+      <div class="p-tags"><span>JavaScript</span><span>HTML5</span><span>CSS3</span></div>
+      <a class="p-link" href="https://github.com/pasanhansaka/2D-Adventure-Game" target="_blank" data-cursor="OPEN">View repository →</a>
+    </div>
+    <div class="p-card">
+      <div class="p-top"><span class="p-idx">08 / 08</span></div>
+      <div class="p-title">Key Code Finder</div>
+      <div class="p-desc">Interactive keyboard inspector — press any key, instantly see its JS keyCode, key name and event properties.</div>
+      <div class="p-tags"><span>JavaScript</span><span>CSS3</span></div>
+      <a class="p-link" href="https://github.com/pasanhansaka/Key-Code-Finder-Interactive-Keyboard-Code-Helper" target="_blank" data-cursor="OPEN">View repository →</a>
     </div>
   </div>
 </section>
 
 <!-- ═══════════════ STATS ═══════════════ -->
-<section id="stats">
-  <div class="wrap">
-    <div class="section-head">
-      <span class="section-tag">📊 github_stats</span>
-      <h2 class="section-title">By the Numbers</h2>
-      <div class="divider"></div>
-    </div>
-    <div class="stats-grid">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pasanhansaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0322&title_color=e879f9&icon_color=9333ea&text_color=e2e8f0&ring_color=9333ea&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pasanhansaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0322&title_color=e879f9&text_color=e2e8f0&langs_count=8" alt="Top Languages"/>
-    </div>
-    <div style="margin-top:20px;">
-      <img style="width:100%; border-radius:14px; border:1px solid var(--line);" src="https://github-readme-activity-graph.vercel.app/graph?username=pasanhansaka&theme=tokyo-night&hide_border=true&bg_color=0f0322&color=e879f9&line=9333ea&point=e879f9&area=true&area_color=3b0764&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
-    </div>
+<section id="statsx">
+  <span class="eyebrow"><span class="idx">05</span> metrics</span>
+  <h2 class="head reveal">By the numbers</h2>
+  <p class="head-sub reveal">Approximate — the interesting parts are above, this is just the tally.</p>
+
+  <div class="stat-grid reveal">
+    <div class="stat-cell"><div class="stat-num" data-count="8">0</div><div class="stat-label">Public projects</div></div>
+    <div class="stat-cell"><div class="stat-num" data-count="25">0<span class="plus">+</span></div><div class="stat-label">Technologies used</div></div>
+    <div class="stat-cell"><div class="stat-num" data-count="1">0</div><div class="stat-label">Production CRM shipped to</div></div>
+    <div class="stat-cell"><div class="stat-num" data-count="2026">0</div><div class="stat-label">Interning since</div></div>
+  </div>
+
+  <div class="stats-imgs reveal">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pasanhansaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0c0616&title_color=ff3fa8&icon_color=7c5cff&text_color=e2e8f0&ring_color=7c5cff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pasanhansaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0c0616&title_color=ff3fa8&text_color=e2e8f0&langs_count=8" alt="Top Languages"/>
   </div>
 </section>
 
-<!-- ═══════════════ CONTACT / FOOTER ═══════════════ -->
-<footer id="contact">
-  <div class="wrap">
-    <div class="ft-title">Let's build something extraordinary 🚀</div>
-    <div class="ft-sub">pasanhansaka31@gmail.com&nbsp;&nbsp;·&nbsp;&nbsp;linkedin.com/in/pasanhansaka</div>
-    <div class="cta-row">
-      <a class="btn btn-primary" href="mailto:pasanhansaka31@gmail.com">Get In Touch</a>
-      <a class="btn btn-ghost" href="https://github.com/pasanhansaka" target="_blank">github.com/pasanhansaka</a>
-    </div>
-    <div class="copyright">© 2026 Pasan Hansaka — Built with HTML, CSS &amp; way too much coffee ☕</div>
+<!-- ═══════════════ CONTACT ═══════════════ -->
+<section id="contact">
+  <div class="contact-inner">
+    <span class="eyebrow" style="justify-content:center;"><span class="idx">06</span> get in touch</span>
+    <span class="decrypt" data-text="LET'S BUILD SOMETHING">LET'S BUILD SOMETHING</span>
+    <p>Open to freelance work, collaborations, and interesting problems. Based in Kalutara, replying from wherever there's wifi.</p>
+    <a class="magnetic-btn" href="mailto:pasanhansaka31@gmail.com" data-cursor="EMAIL"><span class="fill"></span>pasanhansaka31@gmail.com</a>
+  </div>
+</section>
+
+<footer>
+  <div class="foot-row">
+    <span>© 2026 PASAN HANSAKA</span>
+    <span><a href="https://github.com/pasanhansaka" target="_blank">GITHUB</a> · <a href="https://linkedin.com/in/pasanhansaka" target="_blank">LINKEDIN</a> · <a href="mailto:pasanhansaka31@gmail.com">EMAIL</a></span>
+    <span>KALUTARA, SRI LANKA</span>
   </div>
 </footer>
 
+</div>
+
+<script src="script.js"></script>
 </body>
 </html>
