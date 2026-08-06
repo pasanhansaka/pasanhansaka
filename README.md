@@ -18,6 +18,13 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="100%"/>
 </div>
 
+<!--NEOFETCH:START-->
+<!--NEOFETCH:END-->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="100%"/>
+</div>
+
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SOCIALS  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 ---
