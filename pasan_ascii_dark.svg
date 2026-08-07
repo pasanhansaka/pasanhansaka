@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="476px" height="478px" font-family="Consolas, 'Courier New', monospace" font-size="11px">
+<style>
+  text, tspan { white-space: pre; fill: #e9d5ff; }
+</style>
+<rect width="476px" height="478px" fill="#0d0025" rx="14"/>
+<rect x="1" y="1" width="474px" height="476px" fill="none" stroke="#9333ea" stroke-width="2" rx="13"/>
+<text>
+<tspan x="24" y="28.0">                                                                </tspan>
+<tspan x="24" y="41.2">                                                                </tspan>
+<tspan x="24" y="54.4">                            ...                                 </tspan>
+<tspan x="24" y="67.6">                     ++#x@@#+:..  ....:                         </tspan>
+<tspan x="24" y="80.8">                    :@@@##x:           . .                      </tspan>
+<tspan x="24" y="94.0">                   .@#xx:. :::::... ...  ..                     </tspan>
+<tspan x="24" y="107.2">                 ..@@x+x:+.::.   .:....++x:.                    </tspan>
+<tspan x="24" y="120.4">                  x@++....             . :::.:.                 </tspan>
+<tspan x="24" y="133.6">                   +::x..                ... ::                 </tspan>
+<tspan x="24" y="146.8">                   ..:+..   .::      .    +...                  </tspan>
+<tspan x="24" y="160.0">                  . ::: .+:.xxx::.+::::::++x                    </tspan>
+<tspan x="24" y="173.2">                 .@x+++ .::##@@x... :+@@#+:#x.                  </tspan>
+<tspan x="24" y="186.4">                  @+@x+ . ....::  ..+x#+...@.x.                 </tspan>
+<tspan x="24" y="199.6">                  @:+xx..           ..     @x+.                 </tspan>
+<tspan x="24" y="212.8">                  @@+#+::.  ...+#@+.x#..   @x@                  </tspan>
+<tspan x="24" y="226.0">                   ##..:::  ::.+. :::+:++:.:x                   </tspan>
+<tspan x="24" y="239.2">                      ... . ::...:++:+.:#...                    </tspan>
+<tspan x="24" y="252.4">                       :... ..  ....::.:. .                     </tspan>
+<tspan x="24" y="265.6">                       @+:..... .:..:.+. .                      </tspan>
+<tspan x="24" y="278.8">                     :@@++....::.:+::+:.:..                     </tspan>
+<tspan x="24" y="292.0">                     :@#@x... .. .    ::#@@                     </tspan>
+<tspan x="24" y="305.2">                     .##.@#.   .    .:..#+@@:                   </tspan>
+<tspan x="24" y="318.4">                       ##:@@#.       . .+:@@@                   </tspan>
+<tspan x="24" y="331.6">                        x@. x@@: .     .:@.@@@.                 </tspan>
+<tspan x="24" y="344.8">                         #x. .@@#+      ##.x@@                  </tspan>
+<tspan x="24" y="358.0">   .                     .@@.+++@@+     @ :@@             .     </tspan>
+<tspan x="24" y="371.2">                           #@@:. x#x....@ +#@                   </tspan>
+<tspan x="24" y="384.4">                  ..        @@+.x@@:##x+@. .@x                  </tspan>
+<tspan x="24" y="397.6">                             @@:..  ++#x@..:@+.                 </tspan>
+<tspan x="24" y="410.8">                     .        @@+..   :@@ .  #x                 </tspan>
+<tspan x="24" y="424.0">                      ..      :@@.     @@..  x@:                </tspan>
+<tspan x="24" y="437.2">                        :       @@+     @ .  .@x           .    </tspan>
+</text>
+</svg>
