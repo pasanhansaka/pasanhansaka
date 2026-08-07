@@ -19,7 +19,11 @@
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/main/neofetch.svg" width="100%" alt="Neofetch Stats"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/main/pasan_ascii_dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/main/pasan_ascii_light.svg"/>
+  <img src="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/main/pasan_ascii_dark.svg" width="300" alt="Pasan Hansaka"/>
+</picture>
 </div>
 
 <div align="center">
