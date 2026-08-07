@@ -1,4 +1,4 @@
-name: Update Neofetch Stats
+name: Update Neofetch SVG
 
 on:
   schedule:
@@ -17,7 +17,7 @@ jobs:
         with:
           python-version: '3.11'
 
-      - run: pip install requests
+      - run: pip install requests lxml
 
       - run: python github-stats/generate.py
         env:
@@ -25,5 +25,5 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update neofetch stats"
-          file_pattern: README.md
+          commit_message: "chore: update neofetch svg stats"
+          file_pattern: neofetch.svg
