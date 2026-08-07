@@ -19,6 +19,27 @@
 </div>
 
 <!--NEOFETCH:START-->
+```text
+
+     ____                          
+    |  _ \ __ _ ___  __ _ _ __     
+    | |_) / _` / __|/ _` | '_ \    
+    |  __/ (_| \__ \ (_| | | | |   
+    |_|   \__,_|___/\__,_|_| |_|   
+
+pasan@synapse -----------------------------
+OS: ................. Windows 10, Ubuntu Linux
+Role: ................ SE Intern @ Synapse Solutions
+Degree: .............. BSc (Hons) SE — Birmingham City University
+Stack: ............... Java, Spring Boot, React, MySQL, AngularJS
+
+- GitHub Stats ----------------------------
+Repos: ....... 15  {Contributed: 1}
+Stars: ....... 8   |  Followers: 6
+Commits: ..... 404   |  PRs: 7   |  Issues: 0
+
+Last synced: 2026-08-07 03:32 UTC
+```
 <!--NEOFETCH:END-->
 
 <div align="center">
