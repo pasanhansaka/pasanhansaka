@@ -18,29 +18,9 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="100%"/>
 </div>
 
-<!--NEOFETCH:START-->
-```text
-
-     ____                          
-    |  _ \ __ _ ___  __ _ _ __     
-    | |_) / _` / __|/ _` | '_ \    
-    |  __/ (_| \__ \ (_| | | | |   
-    |_|   \__,_|___/\__,_|_| |_|   
-
-pasan@synapse -----------------------------
-OS: ................. Windows 10, Ubuntu Linux
-Role: ................ SE Intern @ Synapse Solutions
-Degree: .............. BSc (Hons) SE — Birmingham City University
-Stack: ............... Java, Spring Boot, React, MySQL, AngularJS
-
-- GitHub Stats ----------------------------
-Repos: ....... 15  {Contributed: 1}
-Stars: ....... 8   |  Followers: 6
-Commits: ..... 404   |  PRs: 7   |  Issues: 0
-
-Last synced: 2026-08-07 03:32 UTC
-```
-<!--NEOFETCH:END-->
+<div align="center">
+<img src="https://raw.githubusercontent.com/pasanhansaka/pasanhansaka/main/neofetch.svg" width="100%" alt="Neofetch Stats"/>
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:transparent,30:9333ea,50:c084fc,70:9333ea,100:transparent" width="100%"/>
