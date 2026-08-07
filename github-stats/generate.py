@@ -1,11 +1,12 @@
 import os
-import re
 import requests
 from datetime import datetime, timezone
+from lxml import etree
 
 USERNAME = "pasanhansaka"
 TOKEN = os.environ["GH_TOKEN"]
 HEADERS = {"Authorization": f"Bearer {TOKEN}"}
+SVG_FILE = "neofetch.svg"
 
 
 def graphql(query, variables=None):
@@ -30,7 +31,6 @@ def get_stats():
           nodes { stargazerCount }
         }
         followers { totalCount }
-        following { totalCount }
         contributionsCollection {
           totalCommitContributions
           restrictedContributionsCount
@@ -50,62 +50,48 @@ def get_stats():
         + data["contributionsCollection"]["restrictedContributionsCount"]
     )
     return {
-        "repos": data["repositories"]["totalCount"],
-        "contributed": data["repositoriesContributedTo"]["totalCount"],
-        "stars": stars,
-        "followers": data["followers"]["totalCount"],
-        "following": data["following"]["totalCount"],
-        "prs": data["contributionsCollection"]["totalPullRequestContributions"],
-        "issues": data["contributionsCollection"]["totalIssueContributions"],
-        "commits": commits,
+        "repo_data": data["repositories"]["totalCount"],
+        "contrib_data": data["repositoriesContributedTo"]["totalCount"],
+        "star_data": stars,
+        "follower_data": data["followers"]["totalCount"],
+        "commit_data": commits,
+        "pr_data": data["contributionsCollection"]["totalPullRequestContributions"],
+        "issue_data": data["contributionsCollection"]["totalIssueContributions"],
+        "synced_data": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
     }
 
 
-ASCII_ART = r"""
-     ____                          
-    |  _ \ __ _ ___  __ _ _ __     
-    | |_) / _` / __|/ _` | '_ \    
-    |  __/ (_| \__ \ (_| | | | |   
-    |_|   \__,_|___/\__,_|_| |_|   
-"""
+def find_and_replace(root, element_id, new_text):
+    element = root.find(f".//*[@id='{element_id}']")
+    if element is not None:
+        element.text = str(new_text)
 
 
-def build_block(stats: dict) -> str:
-    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    return f"""```text
-{ASCII_ART}
-pasan@synapse -----------------------------
-OS: ................. Windows 10, Ubuntu Linux
-Role: ................ SE Intern @ Synapse Solutions
-Degree: .............. BSc (Hons) SE — Birmingham City University
-Stack: ............... Java, Spring Boot, React, MySQL, AngularJS
-
-- GitHub Stats ----------------------------
-Repos: ....... {stats['repos']}  {{Contributed: {stats['contributed']}}}
-Stars: ....... {stats['stars']}   |  Followers: {stats['followers']}
-Commits: ..... {stats['commits']}   |  PRs: {stats['prs']}   |  Issues: {stats['issues']}
-
-Last synced: {now}
-```"""
+def justify_format(root, element_id, new_text, length=0):
+    if isinstance(new_text, int):
+        new_text = f"{new_text:,}"
+    new_text = str(new_text)
+    find_and_replace(root, element_id, new_text)
+    just_len = max(0, length - len(new_text))
+    dot_string = ' ' + ('.' * just_len) + ' ' if just_len > 0 else ' '
+    find_and_replace(root, f"{element_id}_dots", dot_string)
 
 
-def update_readme():
-    with open("README.md", "r", encoding="utf-8") as f:
-        content = f.read()
+def update_svg(stats):
+    tree = etree.parse(SVG_FILE)
+    root = tree.getroot()
 
-    start = "<!--NEOFETCH:START-->"
-    end = "<!--NEOFETCH:END-->"
-    new_block = f"{start}\n{build_block(get_stats())}\n{end}"
+    justify_format(root, "repo_data", stats["repo_data"], 6)
+    justify_format(root, "contrib_data", stats["contrib_data"])
+    justify_format(root, "star_data", stats["star_data"], 4)
+    justify_format(root, "commit_data", stats["commit_data"], 20)
+    justify_format(root, "follower_data", stats["follower_data"], 4)
+    justify_format(root, "pr_data", stats["pr_data"], 25)
+    justify_format(root, "issue_data", stats["issue_data"], 7)
+    justify_format(root, "synced_data", stats["synced_data"], 14)
 
-    pattern = re.compile(f"{re.escape(start)}.*?{re.escape(end)}", re.DOTALL)
-    if pattern.search(content):
-        content = pattern.sub(new_block, content)
-    else:
-        raise RuntimeError("Markers not found in README.md — add them first.")
-
-    with open("README.md", "w", encoding="utf-8") as f:
-        f.write(content)
+    tree.write(SVG_FILE, encoding="utf-8", xml_declaration=True)
 
 
 if __name__ == "__main__":
-    update_readme()
+    update_svg(get_stats())
