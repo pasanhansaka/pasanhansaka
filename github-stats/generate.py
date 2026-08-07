@@ -37,7 +37,7 @@ def get_stats():
           totalPullRequestContributions
           totalIssueContributions
         }
-        repositoriesContributedTo(first: 1, contributions: [COMMIT]) {
+        repositoriesContributedTo(first: 1, contributionTypes: [COMMIT]) {
           totalCount
         }
       }
